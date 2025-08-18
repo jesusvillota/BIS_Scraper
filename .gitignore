@@ -1,0 +1,11 @@
+# Ignore downloaded PDFs
+/downloaded_pdfs/
+
+# Ignore TODO file
+TODO.md
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
