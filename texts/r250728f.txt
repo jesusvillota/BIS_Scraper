@@ -1,0 +1,499 @@
+Speech
+The RBA’s Dual Mandate – Inflation
+and Employment
+Michele Bullock
+Governor
+Anika Foundation Fundraising Lunch
+Sydney – 24 July 2025
+I’d like to begin by acknowledging the Traditional Custodians of the land on which we meet and pay my
+respects to Elders past and present.
+It’s an honour to join you today at the Anika Foundation fundraising lunch. The Foundation supports
+vital work on youth mental health research, awareness and education, in which I have a strong
+personal interest.
+I’m proud to uphold the tradition of the Reserve Bank Governor speaking at this event to support an
+organisation that is making a real difference.
+My remarks today centre on the dual objectives of monetary policy: ‘price stability’, which means
+maintaining low and stable inflation; and full employment, which I will talk about in more detail later.
+I’ll explore how these aims have shaped the Monetary Policy Board’s strategy in recent years.  As part
+of that, I will reflect on the relationship between the labour market and inflation over that time, and how
+conditions in the labour market have evolved to the present day.
+Now is a good time to revisit these subjects, following the agreement two weeks ago of an updatedStatement on the Conduct of Monetary Policy , which sets out the common understanding of Government
+and the Board on key elements of the monetary policy framework.*
+[
+]
+1
+[
+]
+2
+[
+]But bef ore I turn to that, I’ ll start wi th an update on r ecent monetary pol icy set tings.
+Recent monetary policy settings
+If you cast y our mind back to 2022, y ou wi ll recall that inflation w as higher than i t had been in decades,
+peaking at 7 .8 per cent at the end of that y ear. It w as this rise in inflation that r equired a tightening in
+monetary pol icy over 2022 and 2023, wi th the cash r ate incr easing f rom almost z ero to 4 .35 per cent
+over that period.
+Over the past couple of y ears, we ha ve made meaningf ul progress in bringing inflation down. Higher
+interest rates ha ve been working to bring aggr egate demand and supply closer tow ards balance. W e
+expect headl ine inflation in the June quarter to be in the lower hal f of our 2–3 per cent  target range –
+although that partly r eflects the ongoing ef fect of tempor ary cost -of-living r elief. As that ef fect un winds,
+we expect headl ine inflation to pick up to ar ound the top of the band at the end of this y ear and into the
+first part of 2026.
+To help look thr ough tempor ary factors l ike this, we also pa y close at tention to trimmed mean inflation
+(published quarterly), which pr ovides a good guide to underlying inflation tr ends.  This measur e has
+also been easing, but i t’s still a bit higher than headl ine inflation. A t 2.9 per cent in the Mar ch quarter ,
+year-ended trimmed mean inflation w as under 3 per cent f or the first time since 2021.
+We expect trimmed mean inflation to f all a little further in the June quarter in y ear-ended terms.
+Howev er, the monthly CPI I ndicator data, which ar e volatile, suggest that the f all may not be qui te as
+much as we f orecast back in Ma y. We still think i t will show inflation decl ining slowly tow ards
+2½ per cent, but we ar e looking f or data to support this expectation.
+Encour agingly , as inflation has slowed, the labour mark et has eased only gr adual ly and the
+unemplo yment r ate is r elatively low . I’ll have mor e to sa y on dev elopments in the labour mark et later .
+Since F ebruary , we ha ve reduced the cash r ate by 50 basis points. The B oard continues to judge that a
+measur ed and gr adual appr oach to monetary pol icy easing is appr opriate. Global economic and pol icy
+developments ha ve so f ar been lar gely in l ine wi th our basel ine Ma y forecasts, and the l ikelihood of a
+severe downside ‘tr ade w ar’ appears to ha ve diminished. B ut ther e is sti ll uncertaint y and
+unpredictabi lity in the global econom y. The B oard’s view is that monetary pol icy is wel l placed to
+respond decisiv ely to adv erse international dev elopments i f needed.3
+ [
+]
+4
+ [
+]Our longstanding str ategy has been to bring inflation back to tar get whi le preserving as man y of the
+gains in the labour mark et as possible. This appr oach meant that inter est rates in A ustralia did not rise
+as high as they did in some other economies, and so we ma y not need to lower them as much on the
+way down.
+We also know that A ustralians continue to f eel cost -of-living pr essures, wi th the a verage lev el of prices
+now notably higher than i t was just a f ew years ago . That is wh y we w ant to mak e sure that inflation
+remains low and stable f rom her e on in. Low and stable inflation is good f or households, good f or jobs,
+good f or communi ties and good f or the econom y.
+Our goals of price stability and full employment generally
+reinforce each other
+Stepping back f rom curr ent pol icy set tings and the inflationary episode of r ecent y ears, I now w ant to
+reflect on the f ramework that guides the B oard’s decisions mor e gener ally.
+The RBA ’s monetary pol icy objectiv es are set out in legislation.  Our o verarching goal is to pr omote
+the economic pr osperi ty and wel fare of the A ustralian people, both now and into the f uture. For
+the Board, this means set ting monetary pol icy in a w ay that best achiev es both price stabi lity and
+full emplo yment.
+These goals ar e often r eferred to as our ‘dual mandate’ and ar e longstanding objectiv es of the RBA.
+Over time, low and stable inflation and f ull emplo yment go hand in hand. Low and stable inflation – or
+price stabi lity – is a pr erequisi te for str ong and sustainable emplo yment gr owth because i t creates
+favourable condi tions f or households and businesses to plan, in vest and cr eate jobs wi thout ha ving to
+worry about inflation.  So our two objectiv es are complementary o ver the longer term.
+Even in the shorter term, the two objectiv es often go hand in hand. F or example, when ther e are ups
+and downs in demand, inflation tends to rise as the labour mark et tightens, and f all as it loosens. S o a
+monetary pol icy response that r eturns inflation to tar get wi ll, in time, also mo ve the labour mark et
+towards full emplo yment.
+But sometimes ther e are dev elopments that push up inflation at the same time as they weigh down
+demand – and ther efore emplo yment. This includes sharp incr eases in ener gy prices and supply5
+ [
+]
+6
+ [
+]
+7
+ [
+] 8
+ [
+]
+9
+ [
+]disruptions that push up prices mor e broadly. As I’ ll discuss in a moment, such ‘negativ e supply shocks’
+were part of the r eason f or the high inflation of r ecent y ears, though they wer e not the only f actor.
+In the f ace of supply shocks that push up prices, we need to think about possible tr ade-of fs: how do we
+balance our two goals in these cir cumstances?
+If a supply disruption is tempor ary and modest, monetary pol icy should mostly ‘look thr ough’ i t. Raising
+interest rates mak es little sense i f inflation is expected to ease once tempor ary supply disruptions ar e
+resolved – i t would only weak en the job mark et.
+By contr ast, when a supply shock is l ikely to ha ve a longer lasting ef fect on the econom y and inflation
+there may be str onger gr ounds f or monetary pol icy to r espond.
+A key concern her e is that the longer inflation sta ys high, the mor e households’ and businesses’
+expectations f or future inflation could incr ease. This could, in turn, lead to second-r ound ef fects on
+inflation as households and businesses bui ld higher expectations into their decisions.
+But if households and businesses instead maintain a high lev el of confidence that the B oard will do what
+is needed to r eturn inflation to tar get, inflationary shocks wi ll have less ef fect on price and w age set ting.
+That means we can look thr ough adv erse supply shocks to a gr eater extent – ev en those that we think
+could last f or some time.
+This highl ights another important w ay in which our objectiv es are complementary – and i t’s something I
+want to emphasise. Ha ving a str ong tr ack record of low and stable inflation puts us in the best possible
+position to support emplo yment. It means ther e is less risk of inflation get ting out of contr ol, which
+allows inflation to be br ought down wi th smal ler incr eases in inter est rates than otherwise. This in turn
+keeps the labour mark et closer to f ull emplo yment.
+That is wh y maintaining wel l-anchor ed inflation expectations is a k ey benefi t of inflation tar geting
+frameworks, as I wi ll return to in a moment, and wh y it is important that inflation r eturns to be
+sustainably in our tar get range.
+The dual mandate in the post-pandemic period
+So how did this dual mandate shape our pol icy response to the post -pandemic rise in inflation?10
+ [
+]
+11
+ [
+]First, the starting point f or our monetary pol icy set tings mat tered – these wer e of course v ery
+accommodativ e, with the cash r ate ef fectively at z ero.
+Second, the causes of the pick -up in inflation wer e crucial. The ini tial pick -up in inflation w as partly
+driven by some of the supply f actors I ha ve mentioned. T empor ary disruptions in global supply chains
+during the pandemic led to str ong incr eases in goods prices, and the w ar in Ukr aine caused a spik e in
+global ener gy prices.
+But it was also clear that demand w as part of the story . Accommodativ e fiscal and monetary pol icy
+settings in the pandemic period supported str ong gr owth in demand f or goods during lockdowns, and
+this demand str ength inter acted wi th supply constr aints to ampl ify inflationary pr essures. Then, as
+lockdowns eased and the econom y started to r ecover, demand f or services also r ecovered str ongly. As a
+result, condi tions in pr oduct mark ets and labour mark ets wer e very tight b y mid-2022.
+It was clear that we needed to incr ease inter est rates to bring about a bet ter balance between demand
+and supply , which would help to ease domestic price pr essures. This need w as reinforced b y a concern
+that longer run inflation expectations could incr ease. If this happened, i t would add to inflationary
+pressure and would ul timately r equire a lar ger pol icy response, and higher job losses.
+Although i t was clear that we needed to r aise inter est rates to slow demand gr owth, i t was less clear
+how quickly demand pr essures needed to ease, how persistent global shocks or their ef fects would be,
+and how much we could af ford to ‘look thr ough’ those ef fects.
+The B oard could ha ve chosen to match the mor e signi ficant r ate incr eases of some other centr al banks
+to bring inflation back to tar get mor e quickly . But this could ha ve risk ed a sharper and mor e persistent
+increase in the unemplo yment r ate.
+Instead, the B oard judged that a measur ed appr oach w as consistent wi th its dual mandate. W e
+increased the cash r ate quickly at first – but we didn’ t go as high as some other centr al banks. W e then
+held the cash r ate for over a y ear, even as some other centr al banks started easing monetary pol icy.
+Throughout, we k ept a close ey e on longer term inflation expectations, to ensur e they r emained
+anchor ed to the tar get.
+This str ategy w as designed to r ein in inflation whi le also pr eserving as man y of the gains in the labour
+market as possible – an example of our dual mandate in pr actice.12
+ [
+]
+13
+ [
+]How has this pla yed out so f ar?
+Since the peak of inflation in 2022, headl ine inflation has decl ined b y over 5 per centage points. And o ver
+the same period ther e has been a r elatively modest easing in labour mark et condi tions. The
+unemplo yment r ate has incr eased f rom ar ound 3.5 per cent in mid-2022 to 4 .2 per cent in the June
+quarter this y ear, and r emains low b y historical standar ds.
+Crucial ly, the shar e of the population in work has r emained ar ound r ecord highs; this is in contr ast to
+declines in man y other adv anced economies (Gr aph 1).
+The fact that unemplo yment has r emained low and emplo yment gr owth has r emained str ong is
+remarkable – and v ery welcome.14
+ [
+]
+Graph 1
+2023 2021 2019 2017 2015 2025-4-202ppt
+-4-202pptEmployment-to-populationRatio*
+Changefrom2015–2019average
+AustraliaRangeofpeereconomies**
+* Dataarequarterlyaveragesofmonthlydata,exceptforNewZealand
+whichisquarterlydata;outliersduringtheCOVID-19pandemichave
+beentruncated.
+**PeereconomiesincludetheUnitedStates,theUnitedKingdom,
+Canada,Germany,theeuroarea,NewZealandandSweden.
+Sources:Eurostat;LSEG;RBA;StatisticsCanada.And it is striking that the incr ease in the unemplo yment r ate has been smal l compar ed wi th the
+large decl ine in inflation. This is especial ly true compar ed wi th previous episodes of disinflation in
+Australia (Gr aph 2).
+Why is this?
+Part of the answer is that the supply -driven price incr eases that I mentioned earl ier did turn out to be
+tempor ary, even if they flowed thr ough to the econom y over a long period of time (Gr aph 3).  As
+these supply disruptions ev entual ly subsided and oi l prices decl ined, price pr essures eased.15
+ [
+]
+Graph 2
+ppt
+48ppt
+48Decrease in headline inflation
+ppt
+024ppt
+024
+1982–1984 1990–1992 2008–2009 2022–2024Increase in unemployment rate**Disinflationary Episodes*
+Cumulative change
+*
+**Episodes defined as periods between peak-to-trough headline inflation.
+Maximum increase in unemployment rate during disinflationary episode.
+Sources:ABS; RBA.
+16
+ [
+]And also as I mentioned earl ier, the B oard wer e very alert to the risk that inflation expectations could
+increase. Crucial ly, that did not happen.
+Instead, households and businesses continued to bel ieve that inflation would r eturn to the tar get range
+(Graph 4). This l imited an y so-cal led ‘second-r ound’ ef fects on inflation, which al lowed inflation to f all
+without a sharp rise in the unemplo yment r ate.Graph 3
+%
+510
+0%
+510
+0Global goods export price growth*
+Year-ended
+index
+0400600800
+200index
+0400600800
+200
+2025 2023 2021 2019 2017Global shipping costs**Global Price and Supply Indicators
+*
+**Excludes fuel; import-weighted.
+Freightos global container index; 2017–2019 average = 100.
+Sources:LSEG; Oxford Economics; RBA.
+17
+ [
+]This demonstr ates the point I made earl ier about how our two objectiv es can be complementary . A
+history of low and stable inflation, and the r esulting publ ic confidence in the inflation tar get, enabled the
+Board to adopt a str ategy that pr otected the labour mark et as much as possible whi le still ensuring
+inflation came down.
+How has the labour market adjusted in the current cycle?
+I’ve already highl ighted the compar atively modest incr ease in the unemplo yment r ate over the past f ew
+years f rom a v ery low lev el, and that o verall emplo yment has continued gr owing. The r ate of la yoffs has
+increased only a l ittle and r emains at a r emarkably low lev el by historical standar ds (Gr aph 5). The shar e
+of work ers who ar e long-term unemplo yed also r emains low .Graph 4
+Headline inflation
+Trend inflation expectations*%
+-551015
+0%
+-551015
+0
+2025 2018 2011 2004 1997 1990 1983 1976Year-endedInflation Expectations and Inflation
+*Computed using measures of household, market economist, union and
+financial market inflation expectations, over different time horizons.
+Sources:ABS; Australian Council of Trade Unions; Bloomberg; Consensus
+Economics; Employment Research Australia; Melbourne Institute;
+RBA; Workplace Research Centre.These ar e good outcomes – as job losses ar e an especial ly painf ul way for the labour mark et to adjust to
+tighter monetary pol icy. Losing a job can be one of the most str essful events in someone’ s life, and i t
+can ha ve far-reaching impl ications f or families and communi ties.
+While the unemplo yment r ate has risen since i ts trough in late 2022, including an uptick in the month of
+June, ther e has been signi ficant jobs gr owth in aggr egate. I nstead, the labour mark et has adjusted in
+some other – less disruptiv e – w ays.
+First, job v acancies ha ve decl ined f rom a v ery high lev el as firms ha ve slowed hiring activi ty.
+Second, the a verage number of hours that people ar e working has decl ined. This f ollows a period when
+hours had incr eased sharply due to v ery str ong demand f or work ers (Gr aph 6).
+Having y our hours cut is tough, but i t’s often pr eferable to losing a job al together . And i t’s worth noting
+that some of this decl ine in hours has been v oluntary , especial ly over the past y ear or so .Graph 5
+%
+6810
+4%
+6810
+4Unemployment rate
+%
+6
+5
+4
+3
+2%
+6
+5
+4
+3
+2
+2025 2020 2015 2010 2005 2000 1995 1990Layoffs rate*Unemployment and Layoffs
+*Layoffs as a share of filled jobs; Henderson trend.
+Sources:ABS; RBA.
+18
+ [
+]
+19
+ [
+]Third, ther e has been a decl ine in the shar e of work ers voluntari ly leaving their jobs (the ‘qui ts
+rate’).  This suggests ther e could be less need f or firms to compete to at tract and r etain work ers,
+implying less upw ard pressure on w ages gr owth than otherwise (Gr aph 7).Graph 6
+hours
+293132
+30hours
+293132
+30
+2025 2023 2021 2019 2017 2015 2013 2011Average Hours Worked*
+*Weekly average actual hours worked.
+Source:ABS.
+20
+ [
+]In summary , the gr adual easing in labour mark et condi tions has so f ar been most evident in f ewer job
+vacancies, r eductions in hours work ed and decl ining r ates of v oluntary job swi tching.
+These shi fts aren’t without their chal lenges, but they al l tend to be less disruptiv e than outright
+job losses.
+I should note that the RBA can’ t wave a magic w and and contr ol how adjustments in the labour mark et
+play out. I nterest rates ar e too blunt an instrument f or that, and I am not her e to claim cr edit for the
+fact that the adjustment has so f ar tak en place in a less costly w ay.
+By the same tok en, because the labour mark et can adjust in di fferent w ays, we do not ‘tar get’ any one
+adjustment mechanism, such as a set number of job losses, as we seek to bring demand and supply
+back into balance. I ndeed, ther e have been substantial job gains o ver this period.
+Are we close to full employment?Graph 7
+Quits rate
+(LHS, trend)Individual arrangements
+ wages growth*
+(RHS)%
+6
+5
+4
+3
+2%
+4
+3
+2
+1
+0
+2025 2022 2019 2016 2013 2010 2007 2004Wages Growth and Quits Rate
+*Year-ended; non-seasonally adjusted.
+Sources:ABS; RBA.Let me bring the labour mark et story up to date.
+Our o verall assessment at the time of our most r ecent f orecast in Ma y was that ther e was still some
+tightness in the labour mark et, and we expected i t to ease a l ittle over the r emainder of this y ear.
+A broad range of indicators underpinned this assessment, and in man y ways not much has changed.
+Firms sti ll report signi ficant di fficulties finding labour , even if this constr aint has eased somewhat
+recently . The r atio of v acancies to unemplo yed people r emains high (Gr aph 8).  At the same time,
+unit labour costs ha ve been incr easing str ongly.
+In May we also highl ighted the possibi lity that labour mark et condi tions could be less tight than we
+thought. As I noted earl ier, the low r ate of job swi tching ma y imply less upw ard pressure on w age
+growth than otherwise. And the quarterly r ate of underlying inflation has r ecently been ar ound a pace
+that would be consistent wi th 2½ per cent in annual terms.21
+ [
+]
+Graph 8
+MeasuresofSpareCapacity
+Labourunderutilisationrates*
+612%
+UnemploymentrateHours-basedunderutilisation
+rateVacancies-to-unemployment
+ratio**
+4080%
+Severelabourconstraints***
+2012 1999 202502550% Hoursworkedpercapita*
+2012 1999 2025181920hours
+Long-runaverage****
+* Trend.
+**TheABSvacanciessurveywassuspendedbetweenMay2008and
+November2009.
+***Shareoffirmsreportinglabourasasignificantconstraint.
+****Averagesince1978.
+Sources:ABS;NAB;RBA.For that r eason, our Ma y forecasts f or wages gr owth and inflation incorpor ated some down wards
+judgement to r eflect the possibi lity that ther e is mor e capaci ty in the labour mark et – and the econom y
+more broadly – than is suggested b y our usual assessment.
+Last week br ought us the latest labour mark et data, which confirmed that the unemplo yment r ate
+increased in the June quarter . Some of the co verage of the latest data suggested this w as a shock – but
+the outcome f or the June quarter w as in l ine wi th the f orecast we r eleased in Ma y. That on i ts own
+suggests that the labour mark et mo ved a l ittle further tow ards balance, as we wer e anticipating. Whi le
+the June monthly data showed a noticeable pick -up in the unemplo yment r ate, other measur es – such
+as the v acancy r ate – ha ve been stable r ecently . More broadly, leading indicators ar e not pointing to
+further signi ficant incr eases in the unemplo yment r ate in the near term.
+Nevertheless, the risks we highl ighted in Ma y remain. As alw ays, ther e is uncertaint y around how labour
+market condi tions stand r elative to full emplo yment, and we wi ll continue to closely moni tor incoming
+labour mark et data. Our A ugust Statement on Monetary P olicy will provide a f ull updated assessment of
+labour mark et condi tions and the outlook.
+Concluding remarks
+So, to conclude, our goals of low and stable inflation and f ull emplo yment ar e closely l inked and
+gener ally reinforce each other .
+A critical f eature of the r ecent high-inflation period is that longer term inflation expectations r emained
+anchor ed. This has enabled the B oard’s monetary pol icy str ategy of bringing inflation down in a
+relatively gr adual w ay so as to l imit the easing in labour mark et condi tions.
+Much of the r ebalancing of demand and supply in the labour mark et that has oc curred in r ecent y ears
+has been r eflected in decl ines in job v acancies, hours work ed and v oluntary job swi tching. Ther e are
+many ways the labour mark et can adjust. The RBA doesn’ t ‘target’ a speci fic outcome, l ike a certain
+unemplo yment r ate or number of job losses, to r each f ull emplo yment.
+Monetary pol icy cannot contr ol how the adjustment happens, but i f it can oc cur whi le keeping
+emplo yment str ong – and ev en growing – that is a gr eat outcome f or work ers, families, communi ties
+and the econom y.22
+ [
+]
+23
+ [
+]In the end, the best w ay to pr omote the economic wel fare of A ustralians is b y achieving low and stable
+inflation alongside f ull emplo yment.
+And that is what the B oard is constantly striving f or.
+Thank y ou and I look f orward to taking y our questions.
+Endnotes
+Thank y ou to Samuel Ev angel inos, K evin Lane, Mik e Major , Tim T aylor and Michel le Wright f or excellent assistance in
+writing this speech. Thanks also to man y of m y colleagues f or their comments and contributions on an earl ier draft.*
+[
+]
+I discussed these objectiv es in m y first speech as Go vernor in 2023: see B ullock M, ‘ Monetary P olicy in A ustralia:
+Complementari ties and T rade-of fs’, Speech at the 2023 Common wealth Bank Global Mark ets Conf erence,
+Sydney, 24 October .1
+[
+]
+I have used the phr ase Monetary P olicy Board here, although f or some of this period i t was of course the R eserv e
+Bank B oard.2
+[
+]
+The trimmed mean r ate is the a verage rate of inflation after ‘trimming’ a way the lar gest price changes in the
+quarter (posi tive or negativ e). See RBA (2024), ‘ Box C: Headl ine and Underlying I nflation ’, Statement on Monetary
+Policy, August.3
+[
+]
+RBA (2025), Statement on Monetary P olicy, May. 4
+[
+]
+They wer e clari fied b y amendments to the legislation that took ef fect in Mar ch this y ear. In practice, howev er, our f ocus
+on price stabi lity and f ull emplo yment is unchanged. S ee Reserv e Bank Act 1959 .5
+[
+]
+The latest Statement on the Conduct of Monetary P olicy states that the RBA ’s goal is to achiev e ‘sustained’ f ull
+emplo yment, which is defined as ‘the curr ent maximum lev el of emplo yment that is consistent wi th low and
+stable inflation’ .6
+[
+]
+Bullock, n 1.7
+[
+]
+To expand on this, i t is also the case that when the labour mark et is persistently deviating f rom full emplo yment,
+inflation wi ll persistently deviate f rom its target.8
+[
+]
+The emplo yment and inflation objectiv es are also complementary when ther e are influences that expand the pr oductiv e
+capaci ty of the econom y – like strong pr oductivi ty growth, suc cessful inno vation and expansions in the capi tal stock.9
+[
+]
+Of course, ther e are limits her e. The longer a centr al bank permi ts inflation to r emain outside tar get, the mor e likely it is
+that inflation expectations wi ll shift. And i f they do , it will require even higher inter est rates and unemplo yment to bring10
+[
+]inflation back to tar get.
+Bullock M (2024), ‘ The Costs of High I nflation ’, Keynote Addr ess to the Anika F oundation Fundr aising Lunch,
+Sydney, 5 September .11
+[
+]
+See Bullock, n 11. 12
+[
+]
+See, for example, Da y I and K Jenner (2020), ‘ Labour Mark et Persistence f rom Recessions ’, RBA Bulletin, September;
+Cassidy N, I Chan, A Gao and G P enrose (2020), ‘ Long-term Unemplo yment in A ustralia’, RBA Bulletin, December;
+Borland J (2020), ‘S carring Ef fects: A R eview of A ustralian and I nternational Li terature’, Australian Journal of Labour
+Economics , 23(2), pp 173–187; Kr oft K, F Lange and MJ Notowidigdo (2013), ‘Dur ation Dependence and Labor Mark et
+Condi tions: Evidence f rom a Field Experiment ’, The Quarterly Journal of Economics , 128(3), pp 1123–1167; Cohen JP ,
+AC Johnston and A S Lindner (2023), ‘Ski ll Depr eciation During Unemplo yment: Evidence Fr om Panel Data’ , NBER
+Working P aper No 31120; Jar osch G (2021), ‘S earching f or Job S ecurity and the Consequences of Job Loss’ , NBER
+Working P aper No 28481.13
+[
+]
+Much of the str ength in emplo yment in A ustralia has been driv en by the non-mark et sector , particularly the heal th car e
+industry owing to higher demand f or disabi lity and aged car e. For mor e on this tr end and how i t has inter acted wi th the
+broader labour mark et, see RBA (2025), ‘ Box C: Heal th Car e Emplo yment and i ts Impact on B roader Labour Mark et
+Condi tions’, Statement on Monetary P olicy, February .14
+[
+]
+In Graph 2, the dates of the f our episodes shown ar e Q3 1982 – Q4 1984 , Q1 1990 – Q4 1992, Q3 2008 – Q3 2009, and
+Q4 2022 – Q4 2024 . For mor e on this topic, see B all L (1994), ‘What Determines the Sacri fice R atio?’, in Mankiw NG
+(ed), Monetary P olicy, The Univ ersity of Chicago Pr ess, pp 155–193.15
+[
+]
+See Beckers B, J Hambur and T Wi lliams (2023), ‘ Estimating the R elative Contributions of Supply and Demand Driv ers to
+Inflation in A ustralia’, RBA Bulletin, June.16
+[
+]
+See Hunter S (2024), ‘ Inflation Expectations – Wh y They Mat ter and How They Ar e Formed ’, Speech to Ci ti Australia and
+New Z ealand I nvestment Conf erence, S ydney, 16 October .17
+[
+]
+For the economists in the r oom, this suggests that the econom y has been oper ating on the steeper portion of the
+‘Beveridge Curv e’.18
+[
+]
+The shar e of work ers that ar e under emplo yed has actual ly decl ined since mid-2024 . 19
+[
+]
+This could r eflect a combination of ther e being f ewer opportuni ties for job swi tching (especial ly for work ers in the
+market sector) and also r educed wi llingness b y work ers to tak e the risk associated wi th swi tching jobs, (consistent wi th
+weak consumer sentiment).20
+[
+]
+See Hunter S (2024), ‘ Understanding the Journey to Ful l Emplo yment ’, Keynote Addr ess to the B arrenjoey Economic
+Forum, 11 S eptember .21
+[
+]The materials on this webpage are subject to copyright and their use is subject to the terms and conditions set out in the
+Copyright and Disclaimer Notice.
+© Reserve Bank of Australia, 2001–2025. All rights reserved.
+The Reserve Bank of Australia acknowledges the Aboriginal and Torres Strait Islander Peoples of Australia as the Traditional
+Custodians of this land, and recognises their continuing connection to country. We pay our respects to their Elders, past and
+present. Aboriginal and Torres Strait Islander peoples should be aware that this website may contain the names, images and
+voices of people who are now deceased.RBA (2025), Statement on Monetary P olicy, May. 22
+[
+]
+See Tan J (2025), ‘ How Usef ul are “Leading” Labour Mark et Indicators at F orecasting the Unemplo yment R ate?’, RBA
+Bulletin, Apri l.23
+[
+]

@@ -18,8 +18,8 @@ def load_config(path: str) -> Dict[str, Any]:
         "DOWNLOAD_DIR": "downloads",
         "INITIAL_DATE": "01/01/2000",
         "FINAL_DATE": "11/08/2025",
-        "PAGE_LENGTH": 10,
-        "MAX_PAGE": 2,
+        "PAGE_LENGTH": 25,
+        "MAX_PAGE": 100,
     }
     for k, v in defaults.items():
         data.setdefault(k, v)

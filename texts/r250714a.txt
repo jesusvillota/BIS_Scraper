@@ -1,0 +1,101 @@
+1/3 BIS - Central bankers' speechesDarryl Chan: Sustaining financial stability amid uncertainty, 
+fragmentation and rapid innovation
+Opening remarks by Mr Darryl Chan, Deputy Chief Executive of the Hong Kong 
+Monetary Authority, at the joint conference on "Sustaining financial stability amid 
+uncertainty, fragmentation and rapid innovation", organised by the Hong Kong Institute 
+for Monetary and Financial Research (HKIMR), the International Monetary Fund (IMF), 
+and the Bank for International Settlements (BIS), Hong Kong, 14 July 2025.
+* * *
+Hyun (Hyun Song Shin, Economic Adviser and Head of the Monetary and Economic 
+), Department, BIS
+Jason ( ), Jason Wu, Assistant Director, Monetary and Capital Markets Department, IMF
+distinguished guests, ladies and gentlemen, good morning.
+It gives me great pleasure to welcome you to today's conference jointly organised by ,
+the Hong Kong Institute for Monetary and Financial Research (HKIMR), the 
+International Monetary Fund (IMF), and the Bank for International Settlements (BIS).
+The theme of this conference aptly summarises the complex and unsettling global 
+economic and financial landscape. The world today faces a confluence of challenges, 
+chief of which are uncertainty and fragmentation.  Innovation greatly improves efficiency 
+and promotes growth.  But the disruption it brings, and the speed with which it 
+advances, also poses tremendous challenges to the way we used to monitor and 
+manage risks and vulnerabilities. Putting together all these known and unknown risks, it 
+makes the task of sustaining financial stability all the more challenging. 
+We have a strong line-up of speakers for this two-day conference. For sure there will be 
+plenty of insightful sharing and exchange regarding these important topics. If I may, by 
+way of raising the curtain, share some initial thoughts and observations.
+Let me start with fragmentation in global trade. In recent years reshoring or friend-
+shoring has been widely discussed and, to some degree, being put into action. Yet, 
+wholesale relocation of supply chains has proven difficult and uneconomical due to the 
+entrenched integration of global supply chain with local production ecosystems and end 
+markets. The result is therefore a web of more diversified supply chains, with connector 
+economies playing a more significant role. However, with the recent wide-spread tariff 
+measures, some of which may highlight the significance of local value added content, it 
+seems the end game is far from settled. 
+Already, recent data indicates a decline in new export orders across many economies, 
+signalling a slowdown in global trade. Over time, this could lead to more persistent 
+dislocation of supply chains and increased fragmentation in a global trading system that 
+aimed to optimise economic efficiency. The uncertainties are slowing down investments 
+as people take a wait-and-see approach, pending more clarity on the future of global 
+trades. 2/3 BIS - Central bankers' speechesThe twists and turns on the trade front have brought volatility to financial markets, 
+unsettled by the potential supply shock brought by much elevated tariff levels, and its 
+implications on US inflation outlook and future interest rate path. This has added new 
+complexities to the global financial system that already had to grapple with a multitude 
+of vulnerabilities including elevated asset valuations, rising debt levels, and increased 
+leverage among non-bank financial institutions (NBFIs).
+At one point, the markets seemed to be casting doubts on what used to be regarded as 
+safe haven assets. The effect was immediately felt in this region with the abrupt 
+unwinding of long-USD positions and the widespread appreciation of Asian currencies. 
+The episode also exposed the degree of unhedged forex positions by some exporters 
+and financial institutions in the region. That said, recent market movements amid 
+continued uncertainties seemed to suggest that risk-on exuberance is back. There 
+could be multiple reasons behind the swing in market sentiments. The question is 
+whether excessive complacency is being built up that may come back and haunt us. 
+Let me turn to innovation. The advancement of artificial intelligence (AI) has drawn 
+much discussion about its potential to revolutionise various aspects of finance, from risk 
+management to customer service, as well as the potential risks of AI models and 
+algorithms to the financial system.
+In the world of finance, the equally exciting, and perhaps more imminent, issue is the 
+emergence of tokenisation. In its latest annual economic report, the BIS devotes a full 
+chapter to the discussion of the next-generation monetary and financial system, 
+including the very hot topic of stablecoins. The intellectual rigour behind the study, in 
+particular the very concept of a "unified ledger", presents us with an excellent 
+framework to get a glimpse of what the future of finance may hold in the form of 
+tokenisation. 
+I hope Hyun would be kind enough to share some of the thoughts with us. Suffice it to 
+say, at this point, that Hong Kong is bringing stablecoins under regulation, and that we 
+are at various stages of putting together the building blocks of the unified ledger. It 
+would be interesting to look back, hopefully in the not too distant future, how things 
+have evolved in this space.
+Ladies and gentlemen, we are living in a world of uncertainty. Policymakers should 
+adopt an agile approach that is capable of responding to a wide range of scenarios, 
+while ensuring effective communication of their policy reaction functions. Let me 
+highlight a few things that central banks and regulators should do to address emerging 
+risks and safeguard financial stability.   
+First, we need to continuously enhance our surveillance frameworks for risk monitoring. 
+I mentioned non-banks in my earlier discussion. As an example, the HKMA has 
+developed a holistic surveillance framework to help us better monitor systemic risks in 
+the financial system. The framework uses granular data sets, including trade repository 
+data on over-the-counter derivatives and transaction-level data on bank loans, to 
+reconstruct NBFIs' portfolios and risk exposures. Together with textual analysis and 3/3 BIS - Central bankers' speechesconventional indicators, the framework gives us a fuller picture of NBFIs' market 
+positions and potential vulnerabilities, as well as early warning indicators for closer 
+monitoring and follow-up actions.
+We have also been experimenting with AI tools to enhance financial stability monitoring, 
+leveraging its ability to distil insights from large pools of data, particularly document-
+based data such as research reports and news articles. This capability is particularly 
+valuable in identifying emerging risks that may not be captured by traditional indicators.
+Second, the rapid pace of financial innovation calls for timely regulatory preparedness. 
+We seek to encourage a culture of responsible innovation. Again, using AI as an 
+example, we aim to reap its benefits while effectively managing its risks. To this end, 
+the HKMA has launched a Generative AI sandbox which provides a risk-controlled 
+environment for banks to develop and test innovative solutions. The sandbox enables 
+us to understand how banks intend to use AI, gauge the potential risks, and assess the 
+need for supervisory guidance.
+Last but not least, multilateral collaboration is crucial. Despite the threat of economic 
+fragmentation, the global financial system is highly interconnected. It makes perfect 
+sense that central banks, regulators, and international organisations like the IMF and 
+the BIS continue to collaborate closely and safeguard the resilience and stability of the 
+financial system. Only by delivering on this goal, we can continue to have the trust of 
+the people that we serve.
+With that, it remains for me to thank all speakers and participants for joining us at this 
+conference, which I am sure will be a great occasion for fruitful and insightful exchange. 
+Thank you.

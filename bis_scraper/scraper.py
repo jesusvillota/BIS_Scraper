@@ -8,8 +8,7 @@ from selenium.webdriver.common.by import By
 
 def scrape(config: dict) -> None:
     """Replicates the notebook's scraping behavior with parameters from config.
-
-    - Iterates pages from 1..MAX_PAGE
+    - Iterates pages from 1 to MAX_PAGE
     - Opens each review link
     - Looks for a PDF link and downloads it to DOWNLOAD_DIR
     - Uses simple time.sleep waits matching the notebook

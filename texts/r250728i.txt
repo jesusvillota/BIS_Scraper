@@ -1,0 +1,207 @@
+1/6 BIS - Central bankers' speechesAdnan Zaylani Mohamad Zahid: Fundamentals of money - its origin, 
+concept and operation in the modern economy
+Panel presentation by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the 
+Central Bank of Malaysia (Bank Negara Malaysia), at the Muzakarah Cendekiawan 
+Syariah Nusantara 2025, Bangkok, 16 July 2025.
+* * *
+ accompanying the speech Presentation slides
+I would like to begin by expressing my sincere appreciation to the organiser INCEIF's 
+ISRA Institute for the invitation to speak and for their efforts in convening this important 
+forum. Events such as this play a vital role in fostering dialogue, sharing insights, and 
+strengthening our collective resolve to advance Malaysia's Islamic financial system.
+The theme of today's event, 'Transformation of an Integrated Islamic Financial 
+System' is both timely and relevant. It invites us to reflect on the evolving dynamics of 
+Islamic finance industry, and more importantly, how we can collectively shape a resilient 
+and forward-looking Islamic financial ecosystem.
+As we navigate an increasingly complex global environment, Malaysia's Islamic 
+financial sector must continue to adapt, innovate, and uphold its commitment to sound 
+governance and inclusive growth, whilst upholding the Shariah principles.
+Financial innovation calls for thinking beyond tradition
+The financial landscape is evolving with many technological advancements and 
+innovations. This shift is redefining the concept of money, necessitating a deeper 
+exploration into its modern forms and implications. We are witnessing explorative 
+transition from traditional instruments such as cash, coins, and digital wallets to 
+emerging use cases like Central Bank Digital Currencies (CBDCs), stablecoins and 
+asset tokenisation.
+As we delve into such advancements, Shariah considerations must be considered. Our 
+journey may face some challenges due to our limited understanding based on 
+traditional thinking on the nature and essence money (for example, conceptualising 
+money as commodity). Relying solely on mainstream interpretations may present 
+limitations, including challenges in ascertaining future-proof policy responses and 
+Shariah considerations.
+In this regard, allow me to share in this Muzakarah today, an alternative view on money. 
+Rethinking money beyond traditional frameworks may deliver a well-informed 
+and future-proof policymaking.
+Mainstream understanding of money is based on commodity 
+perspective2/6 BIS - Central bankers' speechesWhy does money exist and how did money emerge and developed in early human 
+societies? The most common story is probably already familiar to all of you. This 
+narrative is also usually told in introductory economic textbooks, even in some central 
+banks' publication.
+The mainstream narrative is that – before money exists, people barter things or 
+commodities with each other. For example, one goat is exchanged for one bushel of 
+corn. But this system is difficult, as the 'double coincidence of wants' is difficult to 
+achieve.
+Money is said to solve this problem of 'double coincidence of wants'. Instead of every 
+individual trying to match their commodity with other people's desired commodity, one 
+commodity serves as a universally-accepted countervalue.
+Because money facilitates market exchange, it is defined as a medium of exchange. 
+Therefore, any medium of exchange is considered as money. However, this story is 
+based on economists' assumption of humans as rational beings, acting as individuals 
+solely to maximise their own utility or benefit. If we look at actual societies in history or 
+'primitive' societies that exist in modern times, does this story hold?
+Alternative view suggests money originated as credit
+A society that operates purely on a barter system never existed. In 'primitive' societies, 
+goods are circulated via gifts or social reciprocity or redistribution mechanism. Notice 
+that social reciprocity is a kind of debt, except that is not legally enforced and is not 
+precisely quantified.
+Money, as a unit of account, first appeared as a measure of debt. Credit relations could 
+and did exist without markets and medium of exchange. For example, debts arising 
+from compensation for destruction of property, blood money, or authorities' imposition 
+of tax.
+Credit system and banking predate the first coinage by thousands of years. In ancient 
+Mesopotamia, thousands of cuneiform tablets were found, many of which are deposit 
+receipts and monetary contracts. Sometimes, these tablets become a bearer 
+instrument, similar to modern promissory notes.
+The earliest coins found around 700 BC are made from electrum, an alloy of gold and 
+silver from Lydia (in modern day Turkey). But this coin's value is too high for small 
+transactions. Evidence suggests coins are first used for state's expenditures, not day-to-
+day activities. Thus, money in the form of coinage developed as a social and 
+governmental phenomenon.
+In reality, all monies we use today are transferable credit / IOUs
+There are more than one type of money and each is used by different people:
+Currency in Circulation (CIC) - made up mostly of physical banknotes, the rest are 
+coins.3/6 BIS - Central bankers' speechesBank deposits - most common type of money now. For convenience, people keep 
+money stored electronically in their bank accounts, such as current accounts or 
+savings accounts.
+Central bank reserves (CB reserves) - a special type of money used by 
+commercial banks.
+All these types of money are special IOUs because it is transferable to other people as 
+everyone in the economy. Each type of money represents an IOU from one sector of 
+the economy to another.
+Each type of money is used by different people and institutions. Consumers use CIC or 
+bank deposits to make payments to each other. Bank deposits are also used in 
+transactions between banks and their customers.
+For payments and settlement between banks, CB reserves are used. In Malaysia, these 
+CB reserves are operated in our RENTAS system. CB reserves are also used by the 
+central bank in their monetary operations.
+Current monetary system is a credit system of assets and liabilities
+All the monies we have today are financial assets. They are claims on an agent 
+or someone else. Non-financial assets such as land or gold are not claims on anyone – 
+they are commodities.
+Because financial assets are claims, they are also financial liabilities. One person's 
+financial asset must be someone else's or institution's debt. Commodities, or non-
+financial assets, do not have a corresponding debt or liability.
+Money is both an asset and a liability, and the monetary system is a credit system of 
+asset and liabilities. There is no physical form, only data points and entry balances. As 
+this stylised diagram indicates ( ), all the money we have today are refer to slide 6
+interconnected. Each type of money is recorded twice, as assets and liabilities on 
+different balance sheets.
+Bank deposits are liabilities of commercial banks. They represent debt obligation of the 
+commercial bank to their depositors. Physical CIC, although usually not seen by the 
+public as liabilities, are in fact, IOUs, book-keeping entries inscribed on paper and coins.
+Different types of money are issued by different issuers as liabilities
+Not all money are issued by the central bank. In fact, most money in the economy are 
+issued by the commercial banks, in the form of bank deposits. Money issued by central 
+banks are public money, since it is backed by the state, while money issued by 
+commercial banks are private money, as they are claims on the commercial banks 
+themselves.
+It is important here to clarify that when money is issued, either by the central bank or 
+commercial banks, they are issued as liabilities of the issuer, not as assets. 4/6 BIS - Central bankers' speechesAnalogically, if a person buys a new phone on an instalment basis, he/she now owes 
+the phone shop (the seller) and has effectively 'issued' a liability, in exchange for the 
+new phone.
+Deposit liabilities are exchanged for other IOUs. For example, when a customer 
+deposits physical cash in a bank, the bank issues its new liability in the form of new 
+bank deposits which is the customer's new asset. The customer will see his account 
+credited.
+Most deposits however, are created when banks make loans by creating a matching 
+deposit in the borrower's bank account. The bank do not lend out CIC nor existing bank 
+deposits to the borrower.
+Loan does not come from existing money, but rather, loan creates 
+new money
+The money creation process by the commercial banking system is not generally 
+understood by the public, despite numerous publications by many central banks after 
+the global financial crisis in 2008.
+One misconception still widely held is that banks simply act as intermediaries of money 
+between savers and borrowers. In this understanding, money that is lent to the 
+borrowers comes from existing deposits, i.e., deposits create loans. The reality is, as 
+explained earlier, money in the form of bank deposits are created by commercial banks 
+in their act of lending, i.e., loans create deposits.
+Banks are still intermediaries, but in credit. If someone wants to buy a house from a 
+seller, the bank intermediates between the buyer and seller, by substituting the buyer's 
+IOU for its (the bank's) own IOU.
+A second misconception is that bank lending are limited by the amount of CB reserves. 
+The higher the reserve requirement, the lesser the money multiplies. In reality, the 
+central bank targets the interest rate as its monetary policy tool, not the amount of 
+reserves. Commercial banks then decide how much to lend based on profitable 
+opportunities.
+Trust ensures money in the credit-based system, works
+Money, as an IOU, requires trust. An IOU is only accepted if the issuer is trustworthy. 
+When the 'I' and the 'U' are strangers, institutions are needed to establish and maintain 
+the trust. In this manner, any money that is issued can be used elsewhere in exchange 
+for goods and services.
+On bank deposits (commercial bank money), people must trust that it can be withdrawn 
+for cash and the value of bank deposits stay at par to CIC. This is maintained in a few 
+ways:
+Ensuring acceptability for tax payments. This ensures that money will always find 
+a willing receiver, i.e., the government.5/6 BIS - Central bankers' speechesDeposit insurance scheme provides assurance that withdrawals can always be 
+made up to a certain amount.
+Access to central bank liquidity via various facilities. The central bank will always 
+accommodate the banking system's need for liquidity, provided that the 
+commercial bank is financially sound.
+Most importantly, for people to use money, they must trust that its value does not 
+change much from time to time. This monetary stability is maintained by the central 
+bank through, first, clear objectives and second, the ability to meet the objectives, 
+equipped with suitable tools.
+Promoting monetary stability is part of key mandates of BNM
+As per the Central Bank of Malaysia Act 2009 (CBA 2009), one of the principal 
+objectives of BNM is to promote monetary stability conducive to the sustainable growth 
+of the Malaysian economy, along with ensuring financial stability.
+BNM is mandated to pursue the primary monetary stability objective of 'maintaining 
+price stability' while giving 'due regard to the developments in the economy'.
+Price stability means preserving the domestic purchasing power which will help 
+facilitate long-term sustainable growth and ensure that inflation is kept low and 
+stable.
+Economic growth happens when the size of the economy increases over time 
+measured by the gross domestic product (GDP).
+Sustainable growth is the rate at which the economy can keep growing at a 
+steady pace over a long period to ensure positive outcomes for the economy
+In essence, monetary policy is one of the primary tools to manage inflation through its 
+effect on overall demand conditions. Although it is necessary, it is not sufficient on its 
+own to fully address the issue. This will be complemented with other relevant measures.
+Overnight Policy Rate as monetary policy tool to achieve monetary 
+stability
+BNM, through its Monetary Policy Committee (MPC), executes monetary policy 
+responsibility by determining and adjusting the Overnight Policy Rate (OPR). The OPR 
+is the sole indicator used to signal the stance of monetary policy and is announced 
+through the Monetary Policy Statement (MPS).
+During strong demand and high inflation, BNM raises the OPR which makes it more 
+expensive for banks to borrow money. Consumer borrowing becomes more expensive, 
+while savings become more attractive. These discourage spending and investment, 
+eventually lowering demand. This dampens the pressure on prices, containing inflation.
+Relying on monetary policy alone is not sufficient to address rising inflation. In addition 
+to that, monetary policy takes effect with a lag (estimated to be up to 2 years). The 6/6 BIS - Central bankers' speechesoutcome depends on the impact to the behaviour of banks, consumers, businesses and 
+the overall demand. This delay means prices might continue rising for a while before 
+stabilising.
+Therefore, addressing inflation would require other complementary policy tools to 
+influence prices borne by households, especially those affected by supply factors. For 
+example, fiscal policy can complement monetary policy to manage inflation.
+Closing
+Reflecting on the updated understanding of the 'modern money as credit', this brings 
+about the need to assess on whether there should also be an updated or alternative 
+view on modern money and its creation from the Shariah perspective.
+I believe this Muzakarah will serve as a good avenue for the great minds of the Shariah 
+fraternity to have a meaningful discussion with regards to this pertinent topic.
+There is indeed no straight forward answer to this and would require in-depth analysis 
+and detailed assessment both from theoretical and implementation perspectives. It 
+involves continuous dialogue with key stakeholders i.e. Shariah scholars, regulators, 
+macro-economists, industry practitioners, as well as the public, where relevant.
+To conclude, I wish to thank the organiser for having me today. It has been an honour 
+to speak in front of esteemed and prominent Shariah leaders from various parts of the 
+Nusantara.
+I sincerely hope that my presentation today does justice to the recently published BNM 
+Working Paper on ' Fundamentals of Modern Money and its application to Central Bank 
+by the research team at Digital Currency (CBDC) – An Exploratory Shariah Analysis'  
+the Islamic Finance Department of BNM, which can be accessed publicly on the BNM 
+Website. I wish the attendees a fruitful discussion throughout this Muzakarah, 
+insyaAllah.
+Thank you.

@@ -1,0 +1,261 @@
+For release on delivery  
+6:30 p.m. EDT  
+July 17, 2025 
+ 
+       
+The Case for  Cutting Now  
+   
+Remarks by  
+ 
+Christopher J. Waller  
+ 
+Member    
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at the 
+ 
+Money Marketeers of New York University  
+ 
+New York, New York  
+       
+July 17, 2025 
+  
+Thank you, John, and thank you for t he invitation  to speak to you today.   
+My purpose this evening is to explain why I believe that the Federal Open Market 
+Committee (FOMC) should reduce our policy rate by 25 basis points at our next 
+meeting.1  I used to tell my junior research colleagues that presentations are not murder 
+mysteries —just tell the audience up front “ who did it ” by telling them the main point .  So 
+let me follow my own advice  and state up front the reasons I believe we should cut the 
+policy rate at our meeting  in two weeks .  
+First,  tariffs are one -off increases in the price level and do not cause inflation 
+beyond a temporary surge .  Standard central banking practice is to “ look through”  such  
+price -level effects as long as inflation expectations are anchored, which they are.   
+Second, a host of data argues that monetary policy should be close to neutral, not  
+restrictive.  R eal gross domestic product ( GDP ) growth wa s likely around 1 percent  in the 
+first half of this year and is expected to remain soft for the rest of 2025, much lower than 
+the median of FOMC participants’  estimat es of longer -run GDP growth .  Meanwhile, the 
+unemployment rate is  4.1 percent , near the Committee’s long er-run estimate, and 
+headline inflation is close to our target at just slightly above 2  percent  if we put aside 
+tariff effects that I believe will be temporary .  Taken together , the data imply the policy 
+rate should be around neutral, which  the median of FOMC participants estimates  is 
+3 percent , and not where we are —1.25 to 1.50 percentage points above 3 percent .   
+My final reason to favor a cut now is that while the labor market looks  fine on the 
+surface, once we account for expected data revisions,  private -sector payroll growth is 
+near stall speed , and other data suggest that the downside risks to the labor market have 
+ 
+1 The views expressed here are my own and are not necessarily those of my colleagues on the Federal 
+Reserve Board or the Federal Open Market Committee.  
+ - 2 - 
+increased.  With inflation near target and the upside risks to inflation limited, w e should 
+not wait until the labor market deteriorate s before we cut the policy rate.    
+Let me explain my reasoning by start ing with my view of economic activity.  
+Given the ups and downs  of monthly indicators of GDP this year, we can best get a view 
+of the performance of the economy by combining the first-  and second -quarter numbers .  
+With the data in hand, estimate s suggest  that real GDP  increased at an annual rate of 
+about 1 percent in the first half of this year, compared with 2.8 percent in the second half 
+of 2024.  That comparison is important not only for the extent of the slowdown, whi ch is 
+considerable, but also because it is well below  most estimates of the potential growth rate 
+of the economy.  Based on forward- looking indicators , I don’t expect a rebound in the 
+second half —in fact, most forecasts suggest  that real GDP growth will remain  around  
+1 percent at an annual rate.  While the recent tax bill has a significant number of elements 
+that will spur economic growth in the future, not much of those effects will s how up 
+this year . 
+The slowdown in GDP is evident in consumer spending, which constitutes about 
+two-thirds of economic activity .  After hovering near 3 percent last year , real personal 
+consumption expenditures ( PCE) growth is estimated to have stepped down to 1 percent 
+in the first half of this year.   This morning th e Commerce Department announced June 
+retail sales .  The data  are consistent with this forecast, as the increase is on the heels of a 
+couple of soft monthly readings .  As we move forward this  year, consumer spending is 
+expected to continue to grow at a similar  pace, tempered by the expected slowing in 
+growth of real disposable income because of the temporary effects of tariff increases.  I  - 3 - 
+will say more about tariffs when I discuss inflation, but in assessing the near -term 
+momentum of the economy, tariffs  could well be a factor.    
+Turning to the “soft” data, this  picture of declining momentum is consistent with 
+what I am hearing from my business contacts and other sources.  The Fed’s Ju ly 16th 
+Beige Book reported mixed evidence on economic activity across Federal Reserve 
+Districts, with 5 reporting slight or modest gains and the remaining 7 having flat or 
+declining activity.2  This mixed news is also found in s urveys of purchasing managers  
+where there is a continuing contraction in manufacturing and a s light expansion in 
+nonmanufacturing activity .  Given that firms outside manufacturing represent  the large 
+majority of businesses, this implies a modest expansion in activity . 
+Now let’s talk about the labor market.  The headline numbers from the June jobs  
+report looked reassuring —the unemployment rate stands at 4.1 percent, within the range 
+it has been for the past year, and payroll gains were reported as 147,000, essentially the 
+same as in May.  But looking a little deeper, I see reasons to be concerned.  Half of the 
+payroll gain came from state and local government, a sector  of employment that is 
+notoriously difficult to seasonally adjust this time of year.  In contrast, private payroll 
+employment grew just 74,000, a much smaller gain than in the previous two months, and 
+that is consistent with other surveys you might have read about that found a drop in private -sector  employment .
+3  I focus on private -sector employment not only because it is 
+the lion’s share of employment, but also because it is a better guide to the cyclical 
+movement  in employment tha n counting public and private sector together.  As I used to 
+ 
+2 The Fed’s Beige Books are available on the Board’s website at        
+https://www.federalreserve.gov/monetarypolicy/publications/beige -book -default.htm . 
+3 The employment services firm ADP reported that private sector employment declined by 33,000 in June.  
+ - 4 - 
+tell my students, the Federal Reserve’s job should be to maximize private -sector 
+employment, not government employment.  
+And there is another reason to cite the slowdown in private -sector hiring.  A 
+pattern in  data revisions in recent years tells us that the private payroll data are being 
+overestimated and will be revised down significantly when the benchmark revision 
+occurs in early 2026.  Accounting for the anticipated revision to the level of employment 
+in March 2025 and extrapolating forward, private -sector employment gains last month 
+were much close r to zero.4  This is why I say private -sector payroll gains are near stall 
+speed and flashing red.  
+This is only one month of data, I realize, and one possible factor in the slowdown 
+in private -sector hiring  could be a deceleration in net immigration this year, although it 
+will take time to get a clear picture of how immigration is affecting employment.  But other data support the idea of a slowdown in hiring.  There are widespread media reports 
+of the diffic ulty new college graduates are encountering in finding jobs, and, in fact, the 
+unemployment rate for new grads  is at a 10 -year high, far above the le vel before the 
+pandemic.
+5  
+Looking across the soft and hard data, I get a picture of a labor market on the 
+edge.  The Job Openings and Labor Turnover S urvey reports continued low rates of firing 
+but also low rates of hiring .  I suspect this is a hangover of a labor market that was very 
+ 
+4 My estimate of the anticipated revision is based on the difference between the currently published level of 
+payroll employment and the count of employment from the Quarterly Census of Employment and Wages  
+(QCEW) , which is used to benchmark the payroll employment figures.  The QCEW data, which are 
+currently available through 2024:Q4, suggest that the monthly change in payroll employment has been 
+overstated by roughly 60,000 per month since March 2024.  
+5 See Federal Reserve Bank of New York  (2025) , “The Labor Market for Recent College Graduates, ” 
+webpage,  https://nyfed.org/collegelabor .  Through March, college -educated workers aged 22 to 27 had an 
+unemployment rate of 5.8 percent, up steadily since mid- 2022 and far above the 3.6 percent rate in 
+January  2020.    
+ - 5 - 
+tight after the pandemic, leaving employers resistant to let go of qualified workers for 
+fear of renewed labor shortages.  That said, purchasing mana gers report caution and even 
+some pauses on hiring.  The June 4th Beige Book reported declining labor demand i n 
+every single Federal Reserve D istrict, and the July 16th Beige Book emphasized that  labor 
+demand continued to be less than labor supply in many industries .  With hiring already 
+low, at a certain point, declining demand would overcome any instinct to hold on to workers, and if that attitude does shift, it implies that a larger and more sudden reduction in payrolls  and an increase in the unemployment rate  are a risk.    
+To sum up here, I see the hard and soft data on economic activity and the labor 
+market as consistent:  T he economy is still growing, but its momentum has slowed 
+significantly, and the r isks to the FOMC’s employment mandate have increased.  
+Let’s turn to the inflation  data .  In the past two days , we received June consumer 
+and producer price data that give us a good idea of the inflation rate based on PCE , the 
+FOMC’s benchmark for monetary policy.  After several months of readings that moved the 12- month inflation rate close r to the FOMC’s target, the consumer price index and the 
+producer price index suggest that total PCE inflation moved up to around 2.5 percent in 
+June, and core inflation likewise rose  to roughly 2.7 percent .  I believe these data reflect 
+some modest effect from tariff increases, which began in February , and I believe there are  
+further tariff- induced increases to inflation to come later this year, with the  asterisk that 
+there remains a lot of uncertainty about how trade agreements or escalations in trade 
+conflicts may affect that outcome.  
+To understand how tariffs are affecting prices, I have been following not only the 
+Bureau of Labor Statistics monthly data , but also studies of high frequency price data.   - 6 - 
+For example, some researchers this year are tracking the short -run price impact of tariffs 
+on goods prices in real time by examining product -level price data from online stores of 
+large  U.S. retailers .6  Using data through mid- July, they find that, on net, imported goods 
+prices have increased modestly while domestic goods prices are little changed.  Looking 
+across country of origin, Chinese goods imports have seen the most persistent and steady price increases.  That said, to date, the data point to very  small goods price increases 
+relative to the size of the tariff rates .         
+This finding is consistent with my view that a large share of tariff increases won’t 
+be passed through to consumers.  My presumption has been  that consumers w ill have to 
+pay about one -third of the price increases from higher tariffs, with the remainder split 
+between foreign suppliers and U.S. importers.  So if there is a permanent increase to import tariffs of about 10 percent, I expect this will raise PCE inflation three -tenths of 1 
+percent this year, and that this increase would fade over the next year or  so.
+7   
+I can think of a couple of  other reasons that may limit the impact on consumers .  
+The first is that the slowing down of the rollout of many tariffs, with multiple postponements for continuing negotiations, may be giving U.S. importers time to substitute finished or intermediate goods to domestic suppliers or foreign sources subject 
+to lower tariffs.  A second reason is that, faced with the slowing economy that I have 
+described  and the likelihood that tariffs will be weighing on consumer spending, foreign 
+ 
+6 For a discussion of the methodology by Cavallo, Llamas, and Vazquez, see Alberto Cavallo, Paola 
+Llamas, and Franco Vazquez (2025), “Tracking the Short -Run Price Impact of U.S. Tariffs,” working paper 
+(Cambridge, Mass.:  HBS Pricing Lab, July), 
+https://www.pricinglab.org/files/TrackingTariffs_Cavallo_Llamas_Vazquez.pdf .  And updates of the price 
+data can be found on the HBS Pricing Lab website at https://www.pricinglab.org/tariff -tracker . 
+7 For a full rationale of this estimate , see Christopher J. Waller (2025), “The Effects of Tariffs on the Three 
+I’s:  Inflation, Inflation Persistence, and Inflation Expectations,” speech delivered at “Structural Shifts and 
+Monetary Policy,” 2025 Bank of Korea International Conference, Bank of Korea,  Seoul, South Korea, 
+June 1, https://www.federalreserve.gov/newsevents/speech/waller20250601a.htm . 
+ - 7 - 
+producers and importers may be finding ways to hold the line on prices to maintain their 
+presence on store shelves and hold on to customers.  In fact, slowing demand increases competition for all firms , and consumers may benefit.   Finally, despite all of the 
+discussion of supply chain disruptions, tariff effects on supply chains are completely different than what happened during the pandemic.  In the pandemic, supply chains were actually broken:  M any workers were not working, factories were idle , and waves  of 
+COVID were hit ting at asynchronous times across the globe.  In contrast, in the case of 
+the higher  tariffs, we know exactly where things are being produced, and nothing is 
+broken—firms are simply arguing about price s and who will eat the tariffs.  Once that 
+gets resolved, goods will flow naturally across the globe but potentially using different routes.  
+It is possible , of course, that tariffs may have a larger effect on inflation than I 
+expect, but that won’t affect my view of the implications for monetary policy.  A s I have 
+said many times, t ariff increases are a one- time boost to prices that do not sustainably 
+increase inflation.  In the absence of an una nchoring of inflation expectations and an 
+acceleration of wage growth , which we have not seen, tarif fs won’t and can’t 
+permanently increase the inflation rate.  What does this mean for monetary policy?  
+Research shows that centra l bankers should—and , in fact, do —look through price -level 
+shocks to avoid needlessly tightening policy in times like these  and damaging the 
+economy.
+8 
+ 
+8 Edward  Nelson documents central banks’ views of various price shocks.  As long as inflation expectations 
+are anchor ed, both nominal wage growth and inflation in the post -shock period should be able to continue 
+at pre -shock rates, as neither has been upset by a rise in inflation expectations, and output and employment 
+can also grow along paths that are undisturbed by the sh ock.  See Edward Nelson (2025), “A Look Back at 
+‘Look Through,’ ” Finance and Economics Discussion Series 2025 -037 (Washington:  Board of Governors 
+of the Federal Reserve System, May),  https://www.federalreserve.gov/econres/feds/a -look-back -at-look-
+through.htm . 
+ - 8 - 
+ The key question for monetary policy right now is what we can discern about the 
+underlying rate of inflation —that is, the rate excluding tariffs —based on the 
+fundamentals of the economy.  Federal Reserve Board staff has done work to try to 
+estimate tariff  effects on PCE prices.9  Using that  methodology, if I subtract estimated  
+tariff effects  from the reported inflation data, I find the inflation numbers for the past few 
+months would have been quite  close to our 2 percent goal.  You’re not going to hear 
+“mission accomplished”  from me, but what this tells me is that underlying inflation has 
+been lower  than what is reported and close to our objective .   
+Besides tariffs,  I don’t expect an undesirable , sustained increase in inflation  from 
+other forces .  Among the reasons for this  are that the rate of growth in labor  
+compensation is  down considerably in the past year or two, and , with the softening labor 
+market, I do not expect workers will be able to get large wage increases going forward.  Combining this with solid rates of productivity growth implies inflation should continue 
+around 2 percent.  
+Two more points support my inflation outlook, and I will only summarize them 
+here since I  discussed them at length in my June outlook speech .
+10  The first addresses 
+the question of whether I  could be  making the same kind of mistake my  FOMC 
+colleagues and I made in 2021 and 2022 in expecting inflation increases to be only transitory when they turned out to be persistent .  But u nlike then, there is no pandemic 
+disrupting labor, goods , and services supply around the world , and economic growth is 
+ 
+9 For a detailed discussion of the methodology to detect tariff effects on inflation , see Robbie Minton and 
+Mariano Somale (2025),  “Detecting Tariff Effects on Consumer Prices in Real Time,”  FEDS Notes 
+(Washington:  Board of Governors of the Federal Reserve System, May 9), 
+https://www.federalreserve.gov/econres/notes/feds -notes/detecting -tariff -effects -on-consumer -prices -in-
+real-time-20250509.html.   
+10 See Waller, “The Effects of Tariffs on the Three I’s,” in note 7. 
+ - 9 - 
+now slow and slowing, rather than expanding rapidly.  These differences bring me to the 
+second point, which is that unlike in 2021 and 2022, when expectations of future inflation 
+rose, today the measures of expectations I watch remain firmly anchored.11  
+To sum up, tariffs have boosted, and will continue to boost , inflation a bit above 
+the FOMC’s 2 percent objective this year, but policy should look through tariff effects 
+and focus on underlying inflation, which seems to be close to the FOMC’s 2 percent goal , 
+and I do not see any concern for forces driving it persistently higher .   
+As I hope will be evident by now, the evidence of a slowing economy, and all the 
+factors I have cited weighing on economic activity, mean that the risks to the FOMC’s  
+employment mandate are greater, and sufficient to warrant an adjustment in the stance of 
+monetary policy.  Based on June’s Summary of Economic Projections, the current target range for the federal funds rate of 4 -1/4 to 4- 1/2 percent is 125 to 150 basis points above 
+the participants’ median estimates of the long er-run federal funds rate of 3 p ercent.  
+While I sometime s hear the view that policy is only modestly restrictive, this is not my 
+definition of “ modestly.”    
+In fact, the distance that must be traveled to reach a neutral policy setting weighs 
+heavily on my judgment that the time has come to resume moving in that direction.  In 
+June, a  majority of FOMC participants believed it would be appropriate to reduce our 
+policy rate at least two times in 2025, and there are four meetings left.  I also believe —
+and I hope the case I have made is convincing— that the risks to the economy are 
+weighted toward cutting sooner rather than later.  If the slowing of economic and empl oyment growth were to accelerate and warrant moving toward a more neutral setting 
+ 
+11 I consider survey -based measures of inflation expectations unreliable,  and the market -based measures 
+that I watch have remained firmly anchored.   
+ - 10 - 
+more quickly, then waiting until September or even later in the year would risk us falling 
+behind the curve of appropriate policy.  However , if we cut our target ra nge in July and 
+subsequent employment and inflation data point toward fewer cuts, we would have the  
+option of holding policy steady for one or more meetings.  
+For this reason, I believe it makes sense to cut the FOMC’s policy rate by 25 basis 
+points two weeks from now.  And looking to later  this year, if, as I expect, underlying 
+inflation remains in check —wit h headl ine inflation data reporting modest , temporary 
+increases  from tariffs  that are not unanchoring inflation expectations —and the economy 
+continues to grow slowly, I would support further 25 basis point cut s to move  monetary 
+policy toward  neutral.   

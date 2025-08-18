@@ -1,0 +1,510 @@
+*The June 2025 Monetary Policy Report can be found at http://www.bcentral.cl.  
+  
+ 
+ 
+MONETAR Y POLICY REPORT 
+PRESENTA TION BEFORE THE  
+FINANCE COMMIS SION OF TH E 
+HONORABLE SENA TE OF THE  REPUBLIC * 
+ 
+  
+ 
+ 
+Rosanna Costa  
+Governor  
+Central Bank of  Chile  
+18 June 2025  
+ 
+2 
+ Introduc tion 
+Madam  President  of the Senate’ s Finance Commission, senators members of this 
+Commission, ladies , gentlemen,  
+As I usually do, I would like to begin by thanking the Commission for periodically inviting 
+the Central Bank to present its views on recent macroeconomic developments, as well as the 
+outlook and implications for monetary policy.  
+This is the  view that is presented in detail in the June 2025 Monetary Policy Report (MPR), 
+which was  published this morning. 
+Today’ s IPoM  is set against a global backdrop that has become considerably more uncertain. 
+The wide -ranging increase in tariffs announced by the United States in early April has had 
+significant  repercussions on the external scenario. 
+Although the impact of these events on global  activity remains to be seen , there is a consensus 
+that it will be negative and will affect the American economy the hardest.  
+For emerging  economies , however, it is estimated that this time around the magnitude of the 
+effects will be limited, as financial conditions have responded favorably. This is in contrast 
+with what has been observed in previous  periods  of uncertainty, where higher risk led to 
+reduced demand for emerging assets.  
+The escalation of the war in the Middle East introduces yet  another factor of uncertainty in to 
+this scenario. This situation intensified after this Report ’s statistical closing date (11 June), 
+so its impact w as not considered in the central projection scenario. For the time being, the  
+scope, progression and  potential impact on the external  and local economies  are unknown, 
+so it is a factor that needs to be closely monitored.  
+Domestically , activity was more dynamic in the first quarter, thanks to the impact of some 
+transitory factors . Mean while , inflation has evolved in line with expectations and the upside 
+risks that arose during the first part of the year have moderated.  
+The central projection scenario, which I will detail shortly , presents no major changes 
+compared with  the one delivered in March. GDP is still expected to evolve around the trend 
+in the coming quarters , with  inflation converging to 3% in the first half of 2026. 
+In the medium term, the escalatin g trade conflict and war tensions in the Middle East and 
+geopolitical tensions in general will continue to affect the economic outlook, thus increasing the likelihood of more negative  scenarios . 
+Let me now describe the contents of the Report, which form  the basis for the monetary policy 
+decision and the outlook that we communicated at our m eeting yesterday ( Tuesday ). 
+The macroeconomic scenario  
+As I said, the tariff increases announced by the US government in early April have  had 
+significant repercussions on the global  economy . 3 
+ In the Financial Stability Report we presented  to this Commission a month ago, we noted 
+that this has led to  a considerable increase in global  economic uncertainty, in a context where  
+other risk factors such as geopolitical conflicts and high fiscal debt in some countries  remain  
+(Figure  1).  
+The tariff increase will clearly have a negative impact  on global activity. However, the 
+changing development of the process —including announcements, retaliation by other 
+countries and postponements — makes it difficult to make a definitive assessment of its short-
+, medium - and long- term impact.  
+In fact , US authorities have made several announcements in recent weeks that have failed to 
+influence  global markets  significantly , partly due to uncertainty about  which of the various 
+announcements will prevail. 
+Global financial markets have not reacted as usual to  highly uncertain events, with an 
+increase in perceived risks relat ing to US financial assets. As explained in one of the Report ’s 
+boxes, this may reflect the reduced predictability of the institutional and public policy 
+framework in the United States, along with the deterioration of its historical strategic 
+alliances and gr owing concerns about its fiscal accounts (Figure  2). 
+Meanwhile, there is consensus that the United States will bear the brunt  of the tariff 
+adjustments in terms of both activity and inflation. In this scenario, according to the 
+information available at the time of the IPoM ’s statistical close, the Federal Reserve adopted 
+a more cautious stance regarding the federal funds rate. This afternoon, the Fed’ s Monetary 
+Policy Committee will announce its decision on monetary policy and update its projections, which will give  us a clearer picture of the situation . 
+In emerging economies , including Chile, the higher relative risk of US assets has led to 
+financial conditions evolving more benignly than would be expected in the event of a shock of this magnitude. Consequently , long- term interest rate spreads vis -à-vis the United States 
+have narrowed in several economies, currencies have strengthened against the dollar, and stock markets have risen . 
+Locally, as in other emerging economies, the impact of the trade conflict on activity has not been substantial . High- frequency information does not indicate any notable  changes in 
+previous trends in  Chile ’s foreign trade, with exports and imports of goods  maintaining their 
+dynamism . Furthermore , confidence indicators show no signs of being permeated by external 
+circumstances  (Figure  3). 
+Regarding inflation, the outlook has evolved in line with expectations, with core inflation 
+(i.e., the CPI that excludes volatile items) showing a  lower than anticipated trajectory. Thus, 
+in May, the annual variation of total and core CPI reached 4.4% and 3.6%, respectively (4.7% and 3.9% in February). The smaller increase in core CPI  was particularly influenced by the 
+prices of certain  food products  and services (Figure  4). 
+In this regard, an important development  in recent months has been the moderation of the 
+upside risks to inflation that arose earlier this year. On the one hand, two- year inflation 4 
+ expectations have gradually realign ed with the 3% target, while, on the other, the cost shocks 
+of previous quarters have not caus ed higher -than-expected second- round effects (Figure  5). 
+Activity was more dynamic than expected in the first quarter, which was again related to the 
+performance of the export sectors. During this period, non- mining GDP grew by 1.2% 
+quarter -on-quarter in its deseasonalized series (compared to 0.7% in the previous quarter). 
+The contribution of fruit, manufacturing and fish harvesting stood out , as was the improved 
+performance of several services and trade sectors. The latter were supported by the increased inflow  of foreign tourists (Figure 6). The latest Imacec s howed a certain reversal of some 
+supply factors, while the services sector maintained its dynamism.  
+Domestic demand continued to increase as anticipated . Private consumption expanded again 
+in the first quarter, particularly for goods. This occur red in the context of mixed developments 
+in the main spending fundamentals. On the one hand, debt levels and the financial burden 
+have fallen further, while wages continue to gr ow strongly , associated with recent legislative 
+changes (Figure  7). 
+In terms of labor costs, our Business Perceptions Report and Survey of Expectations and Price Determinants indicate some degree of concern among firms about the future trajectory of labor costs. Moreover, the y are increas ing at a time when the labor market is experiencing 
+slow job creation and a rising unemployment rate  (Figure  8). 
+In the case of gross fixed capital formation (GFCF), there was no quarterly variation at the beginning of 2025, in either its machinery & equipment or its construction & works components. By sector, the dynamism of mining investment continues to contrast w ith the 
+fragile condition of other industries  (Figure 9) . 
+However, leading indicators point to a stronger investment momentum going forward. High-frequency data suggest that GFCF has  perform ed more favorably recently, notably capital 
+goods imports. In addition, the Capital Goods Corporation’ s latest survey of large -scale 
+projects significantly increased investment amounts budgeted for this and the next few years, particularly in mining and energy. Moreover, there is a considerable  volume of additional 
+initiatives in the pipeline.  (Figure  10). 
+Let me now elaborate on the projection scenario of this IPoM. I stress again that the most recent developments in the Middle East are not included, as the  conflict  broke  after the 
+statistical close of the Report and their unfolding is still unpredictable.  
+Having clarified this point, our projection scenario is similar to our forecasts of the last six months. Compared to the December and March IPoMs, it is worth noting a somewhat more dynamic activity in the short term, and a moderation of upside risks regarding inflation, with 
+a similar timeframe for its convergence to the 3% target.  
+However, risks have grown  significantly abroad. The tariff hikes  announced by the United 
+States is an unprecedented event of considerable magnitude. So far, the reaction of the financial markets has been benign, and no substantial real effects have been observed. But 
+scenarios of a worsened external situation with more severe than expected impacts on the global economy cannot be ruled out . 5 
+ In the central scenario, the international outlook contains few adjustments. Compared to 
+March, the growth of trading partners is reduced by one tenth of a percentage point on average for the period 2025–2027 (2.6%), a revision that is bigger for the United States. This limited correction responds to two main factors: one, a significant part of the effects of the trade conflict had already been factored in last March, with a substantial cut in projected growth for the United States; and two, the markets ’ response has mitigated the impact of the 
+financial channel (Figure  11). 
+About commodity prices, our copper price projection remains unchanged at around US$4.3 per pound between 2025 and 2027. Our forecast for the oil price is lowered somewhat, although, as I mentioned , this does not consider events happening after the statistical close 
+(Figure  12). 
+The central scenario assumes that the impact of trade tensions on the Chilean economy will be limited. The boxes in the Report describe  the assessment we made to arrive at this 
+assumption.  
+First of all, to date we know that a fraction of domestic shipments to the US are subject to a 
+10% tariff. The information available shows that trade with the rest of the world has not been affected and we believe that a shift in exports ’ destinations would have a minor impact on 
+activity.  
+Likewise, the more positive evolution of financial variables such as interest rates or stock prices and the small downturn in local agents ’ expectations would anticipate limited effects 
+on investment. In any case, if the conflict in the Middle East escalates further, global uncertainty could spiral and affect the external  and local economies.  
+As for inflation, trade diversions would reduce the prices of some products imported by Chile. This will be mainly concentrated in durable goods, adversely affecting the annual CPI variation, which is assumed to accumulate around 0.3 pp throughout the proj ection horizon 
+(Table  1). 
+Thus , the majority of this IPoM ’s forecast revisions originates in domestic factors . 
+The GDP growth range for 2025 is revised to 2.0% –2.75% (1.75% –2.75% in March). 
+Importantly, as the year progresses and reliable information becomes available, the size of 
+the activity forecast range is reduced. In this case, in the June IPoM it should be cut by 25 basis points, from 1 pp in March to 0.75 pp now. In September we will narrow  the range 
+again, by up to half a percentage point.  
+This year ’s revised growth range is the result of its better performance in early 2025. This 
+leaves a higher starting point for activity —and a less negative output gap in the near term — 
+which is expected to converge to a trend -consistent pace of expansion as the transitory 
+elements that contributed to the higher growth in early 2025 fade out. 
+For 2026 and 2027, GDP growth ranges remain at 1.5% –2.5%. These estimates  factors in  the 
+effects of the worsened external scenario and the impacts of a more positive GFCF outlook 
+(Table 2).  6 
+ The greater dynamism anticipated for investment will be centered mainly on large mining 
+and energy projects, whose planned amounts are revised with special emphasis for the second half of this year. Thus, the GFCF growth estimate is maintained at 3.7% for 2025, while for 2026 and 2027 it is raised to 3.6% and 3.3%, respectively (2.2% and 2.9% in March).  
+Private consumption will continue to expand by around 2% over the projection horizon. The dynamism of real labor income and the fall in households ’ financial burden, among other 
+elements, will lend support to this component of expenditure (Figure 13).  
+Turning to fiscal spending, for 2025 the central scenario incorporates the growth contemplated in the last Public Finances Report, including the administrative adjustments mentioned therein . Thereafter, it considers the committed expenditures indicated in said 
+report.  
+The inflation trajectory is mostly unchanged from our March forecast, so it is still expected 
+to touch the 3% mark in the first half of 2026. This is the result of several factors combined. 
+On the one hand, a somewhat more dynamic domestic demand, coupled with somewhat more depreciated real exchange rate levels over  the projection horizon. On the other hand, there is 
+the lower inflation resulting from export diversions and the aforementioned lower outlook for fuel prices. In this scenario, core inflation will s tand around 3% towards the end of 2025 
+(Figure 14).  
+Monetary policy  
+Yesterday we held our fourth Monetary Policy Meeting of the year, in which we decided to keep the monetary rate at 5% . 
+In the statement informing the decision, we noted that during the last few months inflation has evolved in line with projections and the upside risks that arose early in the year have 
+moderated . 
+We added that activity has outpaced projections. However, recent events in the Middle East introduce a new source of uncertainty, the unfolding of which could lead to more complex scenarios .  
+Regarding the future evolution of monetary policy, we indicated that, if  the central scenario 
+of the June IPoM materializes , in the following quarters the MPR will be approaching its 
+range of neutral values. We will assess the future  movements of the MPR considering the 
+evolution of the macroeconomic scenario and its implications for the convergence of inflation.   
+The MPR corr idor an d sensitivity scenarios  
+As usual, the IPoM contains the corridor for the MPR. It accounts for scenarios other than the central one, in which monetary policy behaves differently. 
+I cannot overemphasize that neither the central scenario nor this corridor represents a 
+commitment by the Board on the future trajectory of the MPR. They are intended to provide 7 
+ more detailed information on possible paths. As I just mentioned, it will be macroeconomic 
+developments and the outlook for inflation that will determine the course of the Board’ s 
+decisions. 
+In this IPoM, the upper bound of the MPR corridor —where the rate would be higher than 
+assumed in the central scenario — represents a situation in which domestic demand 
+strengthens more than expected.  
+This could come from a context where business and household confidence improve  
+significantly, maybe due to easing global tensions, an improved local growth outlook or better 
+than expected investment effects on the labor market and income.  
+The lower bound of the corridor —where the rate would be lower than estimated in the central scenario — reflects a scenario in which the external outlook deteriorates, negatively affecting 
+the local and global economies. 
+This could occur if trade tensions flare up and/or global uncertainty soars, causing financial 
+markets to revert to behaviors similar to those of past risk aversion episodes, including a depreciation of the peso. On top of the financial repercussions and t he fall in global demand, 
+there would be the added impact of agents ’ greater pessimism, with a downward effect on 
+domestic demand.  
+International events also define other sensitivity scenarios inside  the MPR corridor. The 
+supply shock associated with the tariffs imposed and the impacts of trade diversions on the local economy could be different from those of the central scenario, in particular the reaction of the prices of the goods our country import s (Figure 15).  
+Concluding thoughts  
+Dear s enators, let me wrap this presentation with some brief remarks . 
+For many years in our presentations to this Commission, we have been drawing attention to certain macroeconomic factors.  
+For one, our economy has resolved the major imbalances of previous years. Thus, we have recovered growth rates consistent with our potential and inflationary pressures have been controlled, beyond the impact that the unfreezing of electric power rates duri ng the past year 
+had on the temporary rise in inflation. 
+For another, we have constantly drawn attention to the fact that, once the major imbalances 
+have been overcome, we need to evaluate and implement changes that will allow us to boost our medium -term growth.  
+This has declined  over the last decade and resuming a path of greater growth is a high priority, 
+as it is the way to improve the living conditions of our citizens, by helping them to meet their 
+expectations and satisfy their needs. That is why I have been bringing up this element in my closing remarks since my first presentations to this Commission.  8 
+ Another characteristic feature of recent years has been the constant emergence of new sources 
+of uncertainty. We have witnessed shocks of varied  types and origins. Global  ones, such as 
+the pandemic, the war in Ukraine, trade tensions and, in recent days, the escalation of 
+conflicts in  the Middle East. Also,  local shocks of great significance, such as the social 
+outburst, the withdrawals of pension savings and the uncertainty generated by the constituent processes.  
+We have been able to cope with these shocks, cushion their effects,  and achieve our goals. 
+This has been possible thanks to hard work, efforts , and an adequate and credible policy 
+framework . 
+Dealing with a significant rise in inflation, largely caused by domestic factors, was not easy. It required a major tightening of monetary policy, which was aided by the government ’s 
+halting the delivery of over -stimulus to consumption, as reflected in the fall in fiscal spending 
+in 2022. This stopped a flow that would have continued to fuel an imbalance between revenues and expenditure . All this in a local environment of high uncertainty, as I said before, 
+which resulted in a depreciation of our currency, the opposite of what was required in the inflationary situation we were experiencing.  
+Back to the present . The projections contained  in this IPoM  do not differ much from what 
+has been our assessment of the economy during the last few IPoMs. We see activity evolving around its trend in the coming quarters and inflation heading towards its 3% target.  
+At this point, please let me give you a brief account of our monetary policy actions of the last few months. 
+A key element of our communication in this period was the need for caution. After having cut the MPR significantly in 2023 and 2024 —625 basis points from its peak in October 2022— and having succeeded  in bringing inflation back to the 3% target, at the end of last 
+year we were faced with several new sources of risk to inflation . 
+On the one hand, we were assimilating a significant rise in power prices that compensated for a previous temporary freeze. Our assessment was that this was an important shock, but monetary policy had room to accommodate it without requiring further monetary tightening. In fact, we cut 100 basis points off the benchmark rate in the second half of 2024, when said unfreezing wa s already underway.  
+On the other hand, during the second half of 2024, other shocks had been accumulating, but they were of a smaller magnitude compared to the rise in electric bills. Among other things, we saw a depreciation of the peso and an increase in labor costs . 
+In last December ’s IPoM, we estimated that annual CPI inflation would be close to 5% during 
+the first half of 2025 and stated that there were risks that new shocks could push it even higher. In fact, over the course of the first quarter, some measures of two- year inflation 
+expectatio ns moved away from the 3% target, reflecting the importance of these risks. 
+In this context, we remarked that we would maintain a cautious position, awaiting to see whether these risks materialized or not, holding the rate steady  at several meetings.  9 
+ With almost the entire first half of the year behind us, we can see that the inflation outlook 
+has matched our expectations. Inflation came close to 5% in March, but has been declining to 4.4% annually, with no second- round effects above historical levels.  More importantly, its 
+foreseen convergence to 3% during the first half of 2026 has been consolidating. 
+Thus, inflation expectations have realigned with its target, while the exchange rate, beyond 
+significant fluctuations, is near its levels of those in the last IPoM which, in turn, are below those of the end of 2024. In any case, labor costs are still incre asing rapidly, which may 
+marginally fuel unexpected inertia.  
+In any case, this process presents some singularities. We do not see an endogenous force fueling inflationary pressures that need to be neutralized. We see an economy that is growing, 
+somewhat above expectations, but mainly for one -off reasons, and inflation converging to 
+the target.   
+Therefore, in an unchanged scenario, the change we propose for monetary policy is rather to adjust the timing of our decisions. 
+That said, significant challenges lie ahead. Global uncertainty about the impact of trade 
+tensions is high. The very characteristics of the process have made it difficult to assess its consequences. Whether due to the changing nature of the process or to t he atypical behavior 
+of the financial markets, it has been difficult to evaluate its consequences.  
+The war in the Middle East is a major new focus of attention. It is a significant war in a complex zone. As I mentioned before, for now we do not know its scope, progression, and 
+potential effects on the local and world economies.  
+These geopolitical tensions are framed against a backdrop of high public debt at a global level and growing demands to finance defense spending and other needs. This set of factors 
+is keeping markets on their toes. In addition, we have seen unusual reactions to risk aversion events, which could change in future episodes.  
+There is no doubt that we are living in uncertain and changing times. Week after week, new facts are added to our analyses and projections, challenging us to face unprecedented global situations. From a long- term perspective, this has been the case since t he creation of the 
+Central Bank of Chile back in 1925. A public institution exposed to the evolution of local and global environments that have required high capacities to adapt and innovate. In these 100 years, the Central Bank has been accumulating exper ience and building technical teams with 
+a high degree of knowledge and commitment.  
+In the periods ahead we will need to be especially careful in evaluating every piece of 
+information. Allow me to briefly mention the work the Bank has done with new data sources, which feed the work presented in several boxes of this IPoM and will be impor tant for 
+monitoring the economy as it evolves . 
+Every other year, we organize an international conference on the use and development of statistics at the global level, which brings together leading experts in the field. Its most recent version, the centennial, was held two weeks ago. In it, one of the m ost prominent international 10 
+ speakers recognized our institution as a world leader in the use of microdata for the design 
+of macroeconomic policy. This mention is not a coincidence, nor is it the only time this work has been mentioned, and it reflects the Bank’ s sustained effort to strengthen its analytical 
+capabilities through the use of granular information. 
+In contexts of high uncertainty, such as we are now experiencing, a timely and accurate 
+diagnosis of economic agents ’ behavior is required to effectively guide monetary policy. 
+Although traditional macroeconomic statistics are fundamental in normal contexts, their lack of immediacy and granularity constrains their usefulness in volatile scenarios. As I mentioned, the use  of microdata has made it possible to monitor in real time the effects of 
+trade tensions and compare the current response with previous epi sodes. This work  is 
+described in this IPoM. 
+Dear senators, if I can identify one  pattern in the more than three years that I have been 
+presenting quarterly reports to this Commission, it is no doubt the sustained presence of 
+sequential disruptive events. Our most likely scenario posits  that the effects of trade tensions 
+on Chilean activity and inflation will be limited. But this may change. The trade shock we are facing is unique in both its magnitude and variability. The complexity of the external scenario —a mix of political, economic, and military conflicts — could escalate. In fact,  what 
+has happened in the Middle East is a sign of how important some factors that in the past were considered unlikely have become.  
+As we have said repeatedly , our country is not immune to international events. Ours is a small 
+economy open to trade and financial exchange. This has allowed us to grow, reduce poverty and improve our living standards over  forty years. We cannot ignore  that the current events 
+jeopardize the institutionality that the world has been building for decades. It can only be 
+recovered and strengthened through the efforts of the international community . 
+Once again, and beyond the prospects of convergence of both activity to its trend and inflation to its target, we must be alert to developments in the external and local scenarios. At the same time, we must continue to strive to improve our possibilities o f absorbing and cushioning 
+shocks. The Central Bank, as always, will work to keep inflation in line with the 3% target and safeguard  financial stability. This is the best contribution our institution can make to our 
+fellow citizens.  
+Thank you.  
+  11 
+  
+ 
+ 
+ 
+  Figure 1
+Average US tariff (1) Uncertainty indicators
+(percent) (index)
+Sources: Central Bank of Chile, US International Trade Commission, Tax Foundation, Baker, Bloom & Davis (2016); Caldara, Iacoviello, Molligo, 
+Prestipino & Raffo (2020).(1) Dotted line shows average tariff considered in the March 2025 IPoM. Yellow diamond marks average tariff after April 2nd announcements. Blue 
+diamond marks average tariff as of April 12th, following the increase to 145% of the tariff for China. Red diamond shows average tariff as of June 11th (statistical cutoff for this IPoM). (2) Global Economic Policy Uncertainty Index, EPU. (3) Trade Policy Uncertainty Index, TPU. 05101520253035
+1900 1925 1950 1975 2000 202503006009001200
+16 17 18 19 20 21 22 23 24 25EPU (2) TPU (3)
+Figure 2
+Currencies (1) (2) (3) Ten-year rates (1) (2) (3) Breakdown of US 10-year rate (4)
+(index) (index)(acumulative since 01.Dec.24, basis points)
+Sources: Central  Bank of Chile and Bloomberg.(1) Daily data in moving seven-day averages. (2) Evolution of each series with respect to the day prior to the beginning of each uncertainty episode (day zero). (3) Latin America 
+considers the simple average of Brazil, Colombia, Mexico, and Peru. (4) For details, see Box  I.1 in June 2025 IPoM. TW II (Commercial war II)90100110120130
+-30-20-10 01020304050United States Covid
+United States TW II
+LatAm Covid
+LatAm TW II
+-80-60-40-20020406080
+Dec.24 Feb.25 Apr.25 Jun.25Growth Monetary policy
+Hedge Common risk
+-150-100-50050100150200
+-30-20-10 01020304050United States Covid
+United States TW II
+LatAm Covid
+LatAm TW II12 
+  
+ 
+ 
+ Figure 3
+(index, 2018-2025=100, monthly real deseasonalized series) (index)
+Source: Central Bank of Chile, GfK Adimark and Icare/Universidad Adolfo Ibáñez..Foreign trade in goods (1)    Economic expectations (2)
+(1) Series in moving quarterly averages. Real data correspond to preliminary monthly estimates using price indexes of the groupings. Seasonal 
+adjustment made using X13-ARIMA. (2) Value above (below) 50 indicates optimism (pessimism). 708090100110120130
+18 19 20 21 22 23 24 25Exports Imports
+010203040506070
+18 19 20 21 22 23 24 25Firms (IMCE w/o mining) Consumers (IPEC)
+Figure 4
+Inflation indicators (1) (2) Core inflation (1) (2)
+(annual change, percent) (annual change, percent)
+Sources: Central Bank of Chile and National Statistics Institute (INE).(1)Prior to2025, series consider the 2023 CPIbenchmark basket and the splicing made by the Central Bank o f Chile. (2)
+Dashed vertical line marks statistical cutoff date forMarch IPoM. (3) Sum ofAdministered and indexed services (A&I)
+and Other services.-202468101214161820
+20 21 22 23 24 25Core CPI
+Volatile CPI
+CPI
+-202468101214161820
+20 21 22 23 24 25Core CPI
+Core goods excl. foods
+Core services (3)
+A&I services
+Other services13 
+  
+ 
+ 
+ Figure 5
+Exchange rate and fuels (1) Two-year inflation expectations (2) (3) (4)
+(index, Jan.24=100, moving 10-day average) (annual change, percent)
+Source: Central Bank of Chile y Bloomberg.(1) Dotted vertical line marks statistical cutoff date for March IPoM. Dots show latest available data (17 June). (2) For the surveys, median 
+responses are shown. (3) EOF considers the survey for the first two weeks of each month through January 2018. From February 2018 onwards, 
+the last survey published in the month is used. In the months in which the survey is not published, the last available survey is considered. (4) 
+B
+reakeven inflation considers average prices of the last 10 days of each month. For June 2025, the average of the eight working days of the month 
+up to the 11th is used.9095100105110115
+708090100110120130
+Apr.24 Jul.24 Oct.24 Jan.25 Apr.25Gasoline
+Brent
+NER (right axis)
+012345678
+17 18 19 20 21 22 23 24 25Financial traders (EOF)
+Breakeven inflation
+Economists (EEE)
+Figure 6
+Activity Contribution to GDP growth by sector (*)
+(index, 2018.I =100, deseasonalized series) (annual change, percentage points)
+(*) Other includes Construction and EGW.
+Source: Central Bank of Chile.8090100110120130
+18 19 20 21 22 23 24 25GDP Non-mining GDP
+-3-2-1012345
+23 24 25Agr., fishery & manuf. Mining
+Other Trade and taxes
+Services PIB14 
+  
+ 
+ 
+ Figure 7
+Private consumption by components Real wage bill (*)
+(index, 2018.I =100, deseasonalized series) (index, 2019=100, deseasonalized series)
+(*) Calculated based on seasonally adjusted series of real LCI, usual hours worked and employment.
+Sources: Central Bank of Chile and National Statistics Institute (INE).6080100120140160
+18 19 20 21 22 23 24 25Private consumption
+Durable goods
+Non-durable goods
+Services
+7580859095100105110
+19 20 21 22 23 24 25
+Figure 8
+Unemployment rate, employment, and participation Employment by occupational category
+(percent) (annual difference, thousands of persons)
+Source: National Statistics Institute (INE).404550556065707580
+02468101214
+00 03 06 09 12 15 18 21 24Unemployment
+Participation (right axis)
+Employoment (right axis)
+-2,000-1,500-1,000-50005001,0001,500
+20 21 22 23 24 25Formal Informal Total15 
+  
+ 
+ 
+ 
+ Figure 9
+GFCF by components Investment by sectors: mining and other sectors (*)
+(index, 2018.I =100, real deseasonalized series) (index, 2018=100, real deseasonalized series)
+(*) Series in moving quarterly averages. For methodological details, see boxed minutes in September 2024 IPoM.
+Sources: Internal Revenue Service (SII), Customs Office, and Central Bank of Chile.708090100110120130140
+18 19 20 21 22 23 24 25GFCF C&Ws M&E
+6080100120140160180200
+18 19 20 21 22 23 24 25Mining Other sectors
+Figure 10
+CBC: Evolution of five-year amounts (1) SEIA: Evolution of submitted amounts (2)
+(billions of dollars, deseasonalized series) (billions of dollars)
+Sources: Central Bank of Chile, Capital Goods Corporation (CBC) and  Environmental Evaluation Service (SEIA)(1) X13-ARIMA is used for seasonal adjustment. Others includes forestry, manufacturing, public works, ports, and 
+technology.  (2) Moving annual sum of projects submitted and admitted to the SEIA. For each quarter the amounts admitted, qualified and awaiting qualification are considered. Others includes agriculture, equipment, forestry, transportation infrastructure, water & port infrastructure, fishery, and environmental sanitation.0102030405060708090100
+12 14 16 18 20 22 240102030405060708090
+12 14 16 18 20 22 24
+16 
+  
+ 
+ 
+ Figure 11
+Average growth forecasts for 2025-2026 in respective IPoM
+(real annual change, percent)
+Sources: based on investment banks (JPM, DB, Barc. and GS), Consensus Forecasts, IMF, and respective 
+statistics bureaus.2.8
+2.1
+1.23.9
+2.6
+1.6
+0.94.0
+2.5
+1.4
+0.84.0
+0.00.51.01.52.02.53.03.54.04.5
+Trading partners United States Eurozone ChinaJun.24 Sep.24 Dec.24 Mar.25 Jun.25
+Figure 12
+Copper price (1) Oil price (1) (2)
+(dollars per pound) (dollars per barrel)
+Sources: Central Bank of Chile and Bloomberg.(f) Forecast. (1) Actual price is average for each year. Dotted lines denote 2025-2027 forecasts contained in each IPoM.  
+(2) Average WTI - Brent oil barrel.2.02.53.03.54.04.5
+17 19 21 23 25(f) 27(f)Dec.24 IPoM
+Mar.25 IPoM
+Jun.24 IPoM
+20406080100
+17 19 21 23 25(f) 27(f)IPoM Dec.24
+IPoM Mar.25
+IPoM Jun.25
+Dec.24 Mar.25 Jun.25
+2025(f) 4.2 4.25 4.3
+2026(f) 4.3 4.3 4.3
+2027(f) 4.3 4.3Dec.24 Mar.25 J un.25
+2025(f) 71 69 66
+2026(f) 69 67 63
+2027(f) 66 6417 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Table 1  
+Effects of a 10% tariff (*) 
+(percentage points of GDP , cumulative 2025 -2027 change)  
+ 
+I. Effects on activity  II. Effects on inflation  
+ 
+(*)  Activity  estimation methodologies in Briones et al. (2025) and Inflation estimation 
+methodologies in Pustilnik et al. (2025).  
+Source: Central Bank of Chile.  
+Table 2  
+ 
+18 
+  
+ 
+ 
+ Figure 13
+Private consumption forecast Gross fixed capital formation forecast
+(index, 2018=100) (index, 2018=100)
+(f) Forecast.
+Source: Central Bank of Chile.9095100105110115120
+18 19 20 21 22 23 2425(f) 26(f) 27(f)Dec.24 IPoM Mar.25 IPoM
+Jun.25 IPoM
+9095100105110115120125
+18 19 20 21 22 23 2425(f) 26(f) 27(f)Dec.24 IPoM Mar.25 IPoM
+Jun.25 IPoM
+Dec.24 Mar.25 Jun.25
+2025(f) 3.6 3.7 3.7
+2026(f) 2.2 2.2 3.6
+2027(f) 2.9 3.3Dec.24 Mar.25 J un.25
+2025(f) 1.6 2.0 2.2
+2026(f) 2.0 2.0 2.0
+2027(f) 2.0 2.0
+Figure 14
+Headline inflation forecast (*) Core inflation forecast (*)
+(annual change, percent) (annual change, percent)
+(*) Considers 2023 benchmark basket and Central Bank of Chile splicing.
+Sources: Central Bank of Chile and National Statistics Institute (INE).02468101214
+19 20 21 22 23 24 25 26 27CPI
+IPoM Mar.25
+IPoM Jun.25Forecast 
+2025.II -
+2027.II
+02468101214
+19 20 21 22 23 24 25 26 27Core CPI
+IPoM Mar.25
+IPoM Jun.25Forecast 
+2025.II -2027.II19 
+  Figure 15
+MPR corridor (*)
+(quarterly average, percent)
+Source: Central Bank of Chile.(*)The 2025, 2026 and 2027 calendar considers two monetary policy meetings every quarter. The corridor was built
+following the methodology described inBox V.1inthe March 2020 IPoM and Box V.3ofthe March 2022 IPoM. It
+includes the June EEE, th e June pre-meeting EOF and the quarterly average smoothed forward curve asof11June.
+For details, see methodological note inFigure II.8, Chapter II,June 2025 IPoM. EEE: Economic Expectations Survey;
+EOF: Financial Traders Survey. 012345678910111213
+23.I
+23.II
+23.III
+23.IV
+24.I
+24.II
+24.III
+24.IV
+25.I
+25.II
+25.III
+25.IV
+26.I
+26.II
+26.III
+26.IV
+27.I
+27.IIJun.25 corridor EOF
+EEE Mar.25 corridor
+MPR Forward Jun.

@@ -1,0 +1,351 @@
+For release on delivery  
+10:00 a.m. EDT   
+July 16, 2025 
+ 
+       
+Booms and Busts and the Regulatory Cycle  
+   
+Remarks by  
+ 
+Michael S. Barr  
+ 
+Member    
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at 
+ 
+The Brookings Institution  
+ 
+Washington, D.C.  
+       
+July 16, 2025  
+  
+Thank you for t he opportunity to speak to you today.1  I am here to discuss o ne of 
+the most important resources that policymakers have: the lessons of  history.  In 
+discharging my responsibilities at the Federal Reserve, I have been thinking a lot  about 
+history .  Its study  provides the opportunity to step out of the particular circumstances of 
+today to inform our unde rstanding of the core issues at the heart of financial regulation .  
+While we must be attentive to new and even un precedented  challenges, experience shows 
+that understanding the lessons of history gives  policymakers a great advantage.   Many of 
+the decisions we face today  have, in some form, been confronted by previous generations 
+of policymakers.  
+In these remarks, I want to discuss  a particular pattern  in the history of the 
+financial system, which is the relationship between  regulatory weakening  and the 
+economic and financial cycle of booms and busts .  My intent is not to re -hash well -
+examined facts or to go over past historical episodes chapter and verse.  R ather, I  aim to 
+offer a perspective on this historical throughline  that focuses on the regulatory cycle . 
+It’s widely accepted  that the economy and financial system experience cyclical 
+booms and busts.  B ooms have historically been characterized by a multitude  of good 
+things .  These can include fast economic growth, workers who had been sidelined 
+enter ing the workforce and improv ing their lives, and financial innovations  that often 
+make credit or investments more readily available .  At the same time, some of the 
+characteristics of a boom economy , such as rapid increases in credit and in financial 
+market activity , as well as greater risk -taking and leverage,  can sow the seeds of busts .  In 
+busts , economic activity and lending contract  and asset prices decline.  This  can lead to  
+ 
+1 The views expressed her e are my own and are not necessarily those of my colleagues.    - 2 - 
+rapid deleveraging and dislocation throughout the financial system, which worsen the 
+downturn, causing job losses  and business closures, homes lost and lives upended. 
+There are usually multiple  causes that drive booms and make busts  so terrible , 
+some unique to each individual  episode.  But one factor that is  common to many past 
+cycles of boom and bust is weakening financial regulation.  Weakening regulation often 
+drive s risk-taking and increases bank fragility during the boom, making  the ensuing bust  
+more painful.   Indeed, economic research suggests that weaker regulation leads to more 
+bank failures, setting the stage for worse recessions.2  Moreover, because the financial 
+system evolves so rapidly , regulation must also continuously adjust.  Much regulatory 
+weakening occurs simply when  regulators fail to keep pace, while at other times , there is 
+a deliberate action  to lower regulatory burden that ends up miscalculating the risk 
+involved.  Let me be clear here that , when I refer to regulatory weakening, I mean not 
+only direct deregulatory actions by regulators  or legislators , but also failure  of the 
+regulatory framework  to keep up with changing circumstances .   
+In principle , financial regulation should incentivize banks to engage in 
+responsible risk -taking and build up resources in good times , so that  they can deal with 
+times of financial stress  and continue their vital role in the economy  in bad times .  The 
+prosperity that accompanies a healthy economy should allow  banks to invest in improved 
+risk management and strong financial resources.  However, a healthy economy can also 
+reduce the effectiveness of regulatory constraints  on bank risk -taking .  This can occur  for 
+a host of reasons, includ ing behavioral biases , political pressure , market dynamics, and 
+ 
+2 For example, see Paul H. Kupiec and Carlos D. Ramirez (2013), “Bank Failures and the Cost of Systemic 
+Risk:  Evidence from 1900 to 1930,” Journal of Financial Intermediation , vol. 22 (3), pp. 285 –307; and 
+Kris James Mitchener (2005), “Bank Supervision, Regulation, and Instability during the Great Depression,” 
+The Journal of Economic History , vol. 65 (1), pp. 152 –85.  - 3 - 
+the tendency for innovation to move more quickly tha n regulators .  These dynami cs can  
+result in regulatory weakening during boom time s.  When actively pursued, t his 
+weakening often appears justified at  the time  and may be  implemented by well -meaning 
+policymakers who simply miscalculate the long- run effects  of their actions.   
+My purpose in these remarks is to recount several boom -and-bust episodes in 
+American history and identify  some lessons that can guide policymakers entrusted with 
+the responsibility of promoting a strong and stable banking system.  T his history 
+demonstrates the connection between regulatory weakening and cycles of bo om and bust.  
+I don’t mean to suggest that more regulation is always better or that repealing and 
+reforming  regulations isn’t sometimes appropriate  to remove obsolete r ules and relieve  
+unnecessary burden.  But , if we can at least agree that regulation should seek  to limit 
+devastating financial crises, then the history  that I will describe today offer s some lessons 
+for anyone thinking about regulatory policy.   
+There are, of course , lots of examples to choose from, both in the United States 
+and abroad, but I’ll focus on the Great Depression, the  Savings and L oan ( S&L)  crisis, 
+and the Global Financial Crisis.  I will then discuss some possible reasons that similar  
+episodes could re cur and conclude with some thoughts on the lessons we can learn . 
+The Great Depression  
+Let’s start with the biggest and most widely studied bust in U.S. history, the Great 
+Depression.  S cholars continue to debate its  causes, which were multiple and complex.  
+One compelling argument  focuses on the failure of regulation to keep pace with the 
+innovations of the Roaring Twenties.  As I said, I view such regulatory stagnation as a 
+form of weakening.  This  weakened regulatory envir onment  played a role in setting the  - 4 - 
+stage for and then exacerbating the bust.  Weak ened  regulation that had failed to keep up 
+with the times left banks unable to weather shocks to the economy.  T he banking sector’s  
+collapse was a significant factor in making the Great Depression the most severe 
+economic crisis that this country has ever experienced.3   
+The Roaring Twenties expansion was powered  by the post -war recovery and 
+technological advances in transportation, manufacturing, and communication s.  Stock 
+markets grew quickly to help finance this innovation, while  residential and commercial 
+real estate investment surged  and swelling  demand for consumer durables led  in turn to 
+increased demand for financ ing.4  As credit needs escalated, there was intensifying 
+competition among banks ; savings and loan institutions  (S&Ls) ; and rapidly growing 
+nonbank finance companies , trust companies, and other financial  vehicles .  
+The 1920s were also characterized by high levels of financial speculation, both 
+inside and outside the banking sector.  Banks engaged in speculation through nonbank 
+affiliates and supported speculation by l ending.  At the same time, many banks were 
+relatively thinly capitalized  and overly concentrated, especially given the lack of federal 
+deposit insurance  at the time .  In addition, many states had prohibitions on branching that 
+prevented banks from diversifying their portfolios and inhibited local competition, 
+ 
+3 Ben Bernanke ( 1983) , “Nonmonetary Effects of the Financial Crisis in the Propagation of the Great 
+Depression,” American Economic Review , vol. 73 (3), pp. 257– 76. 
+4 See Arthur E. Wilmarth Jr. (2003), “Does Financial Liberalization Increase the Likelihood of a Systemic 
+Banking Crisis? Evidence from the Past Three Decades and the Great Depression,” in Benton E. Gup, ed., 
+Too Big to Fail: Policies and Practices in Government Bailouts  (Santa Barbara:  Greenwood Publishing 
+Group), pp. 77– 105; and Barry Eichengreen and Kris Mitchener (2003), “The Great Depression as a Credit 
+Boom Gone Wrong,” BIS Working Papers No. 137 (Basel, Switzerland:  Bank for International Settlements, September) https://www.bis.org/publ/work137.pdf .  - 5 - 
+keeping many struggling banks alive.5  The stock market  boomed, margin lending grew 
+dramatically, a nd insider trading and market manipulation were rampant . 
+As the financialization of the economy increased, the regulatory framework failed 
+to keep up.  Outdated branching restrictions remained, failing to reflect the size and 
+dynamism of  the modern economy.  Banks gained permission to engage in new activities , 
+such as real estate lending  and certain activities in the securities markets ; however , 
+capital requirements and other rules  were not adjusted to reflect potential increased risks 
+from these new activities .6  The cumulative effect of these events was a significantly 
+weakened regulatory environment  and a substantial buildup in risk, without a 
+commensurate inc rease in resources to allow the sector to withstand the risks posed.   
+Looking back, we know that , when the economic shock hit,  the banking system 
+magnified that shock.  The boom of the Roaring Twenties started to go bust in 1929, 
+when the fast growth of the past decade turned to contraction, followed  by a series of 
+financial and banking crises .  In all, approximately 9,000 of the nation’s 23,000 banks 
+failed, resulting in major losses to depositors, given the lack of federal  deposit insurance , 
+and a significant contraction in credit that deepened and lengthened the e conomic 
+ 
+5 National banks received authorization to engage in branching, subject to state law , in 1927 but interstate 
+branching remained prohibited.   
+6 Before  1900, national banks were prohibited from underwriting, dealing, or investing in securities.  
+However, federal authorities loosened these restrictions by allowing national banks to establish bond 
+departments that could underwrite, sell, and invest in debt  securities.  Although restrictions on dealing in 
+stock remained, national banks were able to circumvent these restrictions by organizing affiliates that 
+engaged in the full range of activities with regard to both stocks and bonds.  Federal regulatory auth orities 
+did not interfere with these affiliate activities.  Scholars continue to debate the extent to which this 
+underwriting activity was risky for the banks.  See Wilmarth  Jr., “Does Financial Liberalization Increase 
+the Likelihood of a Systemic Banking Crisis? ” (see note 4); and Eugene Nelson White (1986), “Before the 
+Glass -Steagall Act:   An Analysis of the Investment Banking Activities of National Banks,” Explorations in 
+Economic History , vol. 23 (1), pp. 33– 55.    - 6 - 
+downturn.7  Notably, banks in states that  had more robust regulatory frameworks —for 
+example , those that applied higher capital requirements —had lower rates of failure .8   
+In response to the financial collapse in  the Great Depression, Congress adopted 
+reforms aim ed at  addressing  risks that had dr iven those panics.  Among these steps, 
+Congress established the Federal Deposit Insurance Corporation and federal deposit 
+insurance to reduce the risk of bank runs and protect retail depositors.  Congress  
+increased regulatory oversight  of banks  and separated commercial and investment 
+banking.  Congress also  enacted strong securities laws and created the Securities and 
+Exchange Commission (SEC) .  Overall, these steps helped  stabili ze the financial sector  
+and ushered in a long period of quiescence in banking.  
+The Savings &  Loan Crisis  
+My second example today is the S&L c risis of the 1980s and early 1990s, which 
+did substantial harm  to millions of Americans  and the financial system  and was 
+extremely expensive  to resolve .  In this episode , in contrast to the Great Depression, 
+affirmative  deregulation  led to excessive risk -taking by S&Ls , as well as banks,  during a 
+boom period .  As circumstances soured, revealing weaknesses, Congress attempted  to 
+bolster the  S&L sector  by looseni ng the regulat ory framework  further.  This failed to 
+resolve the underlying stress and instead  further fueled  the buildup in risk -taking, 
+worsening the losses  in the subsequent bust .   
+ 
+7 See Federal Reserve History (2013), “Bank Holiday of 1933,” webpage, 
+https://www.federalreservehistory.org/essays/bank -holiday -of-1933 ; Board of Governors of the Federal 
+Reserve System (1934), 20th Annual Report, 1933 (Washington:   Board of Governors); and Social Security 
+Administration (n.d.), “Social Security History, ” webpage , https://www.ssa.gov/history/bank.html ; and 
+David C. Wheelock (n.d.), “The Great Depression:  An Overview, ” Federal Reserve Education , 
+https://www.federalreserveeducation.org/resources/lessons/lesson --great -depression -introduction -essay -
+wheelock.pdf .  
+8 See Mitchener, “Bank Supervision, Regulation, and Instability ” (see note 2).  - 7 - 
+Let me first set the stage .  The years leading up to the S&L c risis were 
+characterized by dramatic growth in business  credit , in the course of the economic 
+expansion that began in 1982.  At the beginning of this period, the S&L sector  primarily 
+served the residential real estate market  because of  restrictions on S&L activities.  T hese 
+restrictions  eased over the 1980s , allowing S&Ls to ge t significantly larger and engage in 
+new kinds of lending; h owever , these changes were not accompanied  by sufficient 
+regulatory  enhancements to account for increased risk s.  This expansion in S&L activity 
+also presented new competition with commercial banks, which had themselves built up 
+significant risks as they expanded into new activities .9 
+At the same time, both S&Ls  and banks  were increasingly under pressure due to 
+both high inflation and high interest rates, which disrupted their funding model s.10  
+Competition for customer funds increased dramatically, especially because of  the rise of 
+money market mutual funds, which had grown rapidly.  When  Congress remove d 
+outdated deposit rate  caps to  allow banks and S&Ls to more effectively compete for 
+funds , it did so without implementing  adequate safeguards  against these institutions 
+taking on excessive risk .  This led many S&Ls to engage in increasingly risky projects to 
+compensate for escalating funding costs .  Banks  also increased their deposit rates and 
+took on more  risk. 
+As vulnerabilities  at S&Ls became evident, Congress, federal regulators, and the 
+states attempted to bolster both sectors with the hope of allowing them to outgrow those 
+ 
+9 Federal regulators, as well as many state legislatures and state banking authorities,  expanded the scope of 
+permissible activities for banks during this period.   
+10 For example, S&Ls  made  long- term, fixed rate residential mortgage loans, funded with short- term retail 
+liabilities .  As rates increased, S&Ls’ existing mortgage portfolio s decreased in value, because of  their 
+fixed rates .  At the same time, S&Ls were forced to pay higher rates on their liabilities .  This situation 
+threatened their continued viability.    - 8 - 
+weaknesses.  For instance, Congress and the states reduced restrictions on S&Ls’  ability 
+to invest in commercial and consumer loans .11  These changes contributed to the boom in 
+commercial real estate lending, which  became a key source of  vulnerability.  In addition, 
+Congress and the Federal Home Loan Bank Board, the federal S&L regulator at the time, 
+weaken ed capital requirements and the  enforcement of those requirements for the S&L 
+sector .12  This allow ed institutions to become weaker and poorly capitalized entities to 
+stay afloat , leaving S&Ls  as a whole badly positioned to weather adverse conditions.  
+The bust, when it came, was severe.   S&L losses continued to mount throughout 
+the 1980s.  Many banks also experienced severe stress.  These difficulties  were amplified 
+by an eventual decline in real estate values and problems in the agricultural and energy sectors.   In 1980, there were just under 4,000 S&Ls.  By 1989, that  number had fallen to 
+below 3,000, with over  500 of the remaining institutions  insolvent as judged by book 
+value.  And over 1,600 banks failed between 1980 and 1994.  Regulatory weakening had 
+propped up tottering institutions , allowing zombie institutions  to persist, accumulating 
+much greater losses  than they otherwise would have .  The process of cleaning up t he 
+sector  began in earnest in the late 1980s  and continued into the mid -1990s , with a  final 
+ 
+11 Many states simultaneously relaxed their own activities restrictions for state charters to allow for real 
+estate investment . 
+12 For instance, the Federal Home Loan Bank Board reduced net worth requirements for federally insured 
+S&Ls  to allow troubled S&Ls to avoid closure and hopefully recover once interest rates declined.    - 9 - 
+cost of  $160  billion , roughly 5 percent  of gross domestic product at the time .13  And t he 
+cost of resolving insured banks  that failed during this period was $36 billion.14   
+Congress implemented significant reforms  in response to th e S&L crisis, 
+including stricter capital and accounting requirements, limit s on insured depository 
+institutions’ investment powers, and expansions of  regulators’ enforcement authority.  
+These changes paved the way for stability in the banking sector  for some time .   
+The Global Financial Crisis  
+I’ll turn now to my final example, the Global Financial Crisis , which  had 
+devastating effects for the millions of people who lost their livelihoods, their homes , and 
+their businesses .   
+In the decade leading up to the crisis, America experienced rapid credit growth 
+and a housing boom.  There was optimism about the benefits of financial innovation, 
+such as securitization of home loans, and belief in the power  of market discipline as  a 
+form of self -regulation.  Home prices and mortgage debt accelerated in tandem, driven by 
+a mutually reinforcing cycle of optimism, with home prices roughly doubling between 1997 and 2006, and even larger increases in mortgage debt .
+15  Amid this boom, l ending  
+standards dropped, driven by investor demand for mortgage -backed securities, which 
+ 
+13 This figure refers to the cost of resolving S&Ls that failed during the crisis.   See Alane Moysich (1997), 
+“The Savings and Loan Crisis and Its Relationship to Banking,” in History of the Eighties --Lessons for the 
+Future,  vol. 1:  An Examination of the Banking Crises of the 1980s and Early 1990s  (Washington:   Federal 
+Deposit Insurance Corporation), pp. 167 –88, https://www.fdic.gov/resources/publications/history -
+eighties/volume -1/history- 80s-volume -1-part1 -04.pdf ; and U.S. Bureau of Economic Analysis (2025) , 
+Gross Domestic Product , via FRED, Federal Reserve Bank of St. Louis, June 26 , 
+https://fred.stlouisfed.org/series/GDP  (accessed July 15, 2025, 1982:Q4 used as gross domestic product 
+reference point) . 
+14 This figure reflects costs associated with bank failures from 1980 through 1994.   
+15 See Federal Housing Finance Agency (2025), All -Transactions House Price Index for the United States, 
+via FRED, Federal Reserve Bank of St. Louis, May 27, https://fred.stlouisfed.org/series/USSTHPI  
+(accessed July 15, 2025) ; and Board of Governors of the Federal Reserve System  (2019), Mortgage Debt 
+Outstanding, All holders , via FRED, Federal Reserve Bank of St. Louis, December 12 , 
+https://fred.stlouisfed.org/series/MDOAH  (accessed July 15, 2025) .  - 10 - 
+were increasingly opaque and risky in their design but still highly rated by the  rating 
+agencies.  T here was substantial growth in the over -the-counter (OTC) derivatives 
+market, including new forms of credit derivatives .  Money market funds boomed, 
+becoming increasingly linked to the off -balance sheet business of banks.16  These 
+developments led to the emergence of large, short -funded, and interconnected financial 
+entities —both banks and nonbanks. 
+The regulatory environment failed to keep up with the se changes in activity and 
+the increasing complexity of financial institutions and markets , and regulatory weakening 
+heightened vulnerabilities.  The Gramm- Leach -Bliley Act, enacted in 1999, permitted the 
+creation of financial holding c ompanies that could engage in the full range of financial 
+activities ; however, the act  did not put in place a regulatory framework commensurate 
+with the full range of financial risks and permitted nonbank firms  such as investment 
+banks and insurance conglomerates  to compete with banks  whol ly outsi de its framework.  
+The Commodity Futures Modernization Act of 2000 exempted OTC derivatives 
+transactions from virtually all regulation and oversight by the C ommodit y Future s 
+Trading Commission  and SEC .  
+In the lead -up to the crisis, regulators cut oversight further.  A striking image from 
+the time featured the head of one financial regulatory agency wielding a chainsaw  to 
+ 
+16 For example, many banks created asset -backed commercial paper  (ABCP) programs as conduit s that 
+allowed them to fund bank assets without bringing them on balance sheet, thereby avoiding regulatory 
+capital treatment.  However, this approach created significant risks because the primary holders of ABCP 
+were money market mutual funds, which are ul tra-sensitive to payment delays and themselves subject to 
+run risk.   Money market funds also  similarly  funded other parts of  banks’ balance sheets in the lead -up to 
+the crisis.  In addition, other private cash -like instruments, such as auction rate securities, repurchase 
+agreements based on ABCP, and other short -term debt instruments that were treated like money created 
+new vulnerabilities as they grew and subsequently collapsed.    - 11 - 
+demonstrate his commitment to slashing regulations.17  The competitive landscape and 
+regulatory lacuna led to a race to the bottom in standards for underwriting and issuing 
+mortgage loans and securities,  and transactions became increasingly funded by opaque  
+and unstable  short -term wholesale funding.  Consumers were left unprotected as the 
+subprime crisis grew.   In addition, the largest investment banks, which were overseen by 
+the SEC, increased  their leverage with heavy reliance  on short -term funding, leaving 
+them increasingly vulnerable to any losses.  These are just a few examples of the 
+widespread failures in financial regulation and supervision that occurred  in both the 
+banking and nonbanking  sectors in the lead -up to the crisis .   
+The resulting recession and financial crisis saw the deepest and longest 
+contraction in economic activity since the second world war , the collapse of large 
+financial institution s, significant government support to keep the financial system  afloat, 
+and a prolonged period of slow growth.   
+In response to this  crisis , Congress  passed  the Dodd- Frank Act , a reform package 
+that, among other things,  strengthened bank capital, addressed  off-balance sheet 
+exposures, and provided for stress testing.   Consumer protections were strengthened, and 
+a new Consumer Financial Protection Bureau was established.  Supervisors ramped up  
+forward -looking supervision.  In addition, banking regulators adopted capital and 
+liquidity reforms, which substantially improved the resiliency of the banking sector.   
+Studying t he role that regulatory weakening played in the crisis provides  a powerful  
+reminder of the importance of preserving these regulatory gains . 
+   
+ 
+17 Binyamin Appelbaum and Ellen Nakashima  (2008) , “Banking Regulator Played Advocate over 
+Enforcer ,” Washington Post , November 23.   - 12 - 
+Lessons for Policymakers 
+Reviewing these three examples together, it is striking to see the  pattern of 
+regulatory weakening during a  boom , including the  failure of the regulatory environment 
+to keep pace with the evolving financial sector, and how this weakening lays the 
+foundation for a  subsequent  bust.  Why do we continue to see these cycles? 
+Some reasons are psychological , others political .  Humans have short memories, 
+especially for experiences we might like to forget.  The further we get from a crisis, the more its causes fade from memory and the less likely a recurrence seems.  W e become  
+more likely to view regulations as unduly burdensome  and place less value on the 
+protection they offer from downside risk .  The financial sector itself lobbies hard to 
+weaken regulation , which is  often effective when the last crisis seems far away .   
+Credit cycles, financial innovation, and the evolving needs of the economy are 
+also significant contributor s.  As the economy changes, so do financing needs .  This 
+makes it harder to recognize when things are running too hot .  In addition, regulators are 
+understandably cautious about restraining innovations that have societal benefits, which may hinder their ability to reduce  associated risks .  Longstanding regulations can be 
+subject to regulatory arbitrage, making them less effective as activities migrate  outside 
+the regulated system .  These dynamic s make the financial sector unstable , feeding the 
+boom -and-bust cycle.   
+How can we do better?  
+The first lesson  is to approach the financial system with a through- the-cycle 
+perspective  and avoid thinking “this time is different.”   In each of the booms I have 
+covered, there was a heady confidence that market discipline would control risk -taking ,  - 13 - 
+that downside risks were so implausible as not to merit attention,  and that easi ng 
+regulation was justified .  With such confidence, insufficient  thought was given to how 
+regulatory weakening might create new vulnerabilities .  A bit of humility would have 
+helped.  While it is true that regulation must evolve with  the economy and financial 
+system , we need to recognize that relaxing rules can create vulnerabilities .  Changes in 
+the markets themselves can also weaken the effectiveness of regulations .    
+The second lesson is that policymakers  should resist the pressure to loosen 
+regulations or to refrain from imposing regulation  on new activities during the boom 
+times.  With past economic downturns in the rearview mirror, regulations start to be  seen 
+as a limitation on growth, rather than necessary protecti on against vulnerabilities.   As 
+became evident in past episodes, vigilant supervision and prudent rules on risk-taking are 
+important  to prevent future crises .  While there is a tradeoff, it is important to have 
+appropriate protections in place to reduce the risks and costs of  the resulting busts.   
+Third , regulation cannot be static .  If regulation fails to keep up with evolution of 
+the financial sector , it can create new risks or  hinder growth.  
+To conclude, an important lesson  we can draw from U.S. financial crises is the 
+role that ill -advised weakening of the bank regulatory framework played in those crises.  
+It is well within our ability , and is our duty as regulators, to learn from these episodes to 
+avoid making  the same mistakes.   In doing so, we can help to ensure that the financial  
+system is prepared to weather downturns and continue to serve households and 
+businesses.   

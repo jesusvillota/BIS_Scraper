@@ -1,0 +1,304 @@
+For release on delivery  
+9:15 a.m. EDT  
+July 17, 2025  
+ 
+ 
+      
+A View of the Housing Market and U.S. Economic Outlook  
+   
+Remarks by  
+ 
+Adriana D. Kugler  
+ 
+Member  
+ 
+Board of Governors of the Federal Reserve System  
+ 
+at the 
+ 
+Housing Partnership Network Symposium  
+ 
+Washington, D.C.  
+       
+July 17, 2025 
+  
+Thank you, Robin.  And t hank you for the opportunity to speak with you today on 
+the important topic of housing and how housing fits in with the broader economy.1 
+First, I want to step back and say that housing—our homes —has a central role in 
+our lives beyond what statistical reports  capture.   Housing matters greatly for our welfare 
+because shelter is a basic human necessity.  Our homes—be it city apartments, 
+farmhouses passed through generations, or  suburban dwellings —are among  the most 
+significant  places in our lives.  In terms  of household financ es, housing is  an important 
+source of wealth for many  American families .  Housing also supports  access to  good 
+jobs, bec ause the jobs people  can take depend on where they live and how far they  need 
+to commute . 
+In addition, the housing sector matters a great deal to the economy as a whole , 
+and it is an important channel through which monetary policy is transmitted .  That is why 
+I study it closely as a me mber of the  Federal Open Market Committee  (FOMC) .  From 
+the perspective of the labor market, many workers have ties to housing- related  sectors , 
+including construction, real estate, and the mortgage finance industry.  And because 
+housing is a large fraction of household wealth , the housing market influences  consumer 
+spending.  From the price -stability perspective, shelter has a large weight in measures of 
+inflation.  Specifically, shelter is currently 16 percent of the expenditures in the basket 
+used to calculate the personal  consumption expenditures  (PCE)  price index, which is the 
+FOMC’s  preferred inflation measure.2   
+ 
+1 The views expressed here are my own and are not necessarily those of my colleagues on the Federal 
+Reserve Board or the Federal Open Market Committee . 
+2 Shelter has an even larger weight in the consumer price index —it is 35 percent for the index including all 
+urban consumers.  
+ - 2 - 
+Today I will discuss several aspects of housing affordability in the U .S., a topic 
+that I know is  important to many of you, as it is to me .  When studying affordability,  it is 
+important to distinguish between the cost  of shelter , by which I mean the cost of 
+occupying a home, and the cost s of purchasing and owning a home.  I will discuss each 
+of these  in turn, with the common theme being that both are elevated from a historical 
+perspective.  Next , I will discuss some supply and demand factors that explain how we 
+got to this point and offer some thoughts  on how these influences might evolve .  Finally, 
+I will discuss my overall outlook of the U.S. economy and its implications for monetary 
+policy.  
+Cost of Shelter  
+I will start with a  discuss ion of  the cost of shelter, which is not only needed for 
+survival, but is also a large portion of household budge ts.  Because of this,  increases in 
+shelter prices leave less for families to spend otherwise.  It is common to measure the 
+price of shelter with rents because rent reflects the price of occupying a home.  Rents  
+surged early in the pandemic recovery, rising 8.3  percent over the 12 months ending in 
+December 2022.  This year , rent growth eased to 3.8 percent over the 12 months ending 
+in May .3  The recent increase in multifamily construction has contributed to this 
+moderation.  For lower -end properties , we have not seen as much of a cooling in rental 
+inflation , in part because new construction has been  aimed at the high end of the market.   
+ 
+3 The figures cited are calculated from the rent of tenant -occupied housing component of the PCE price 
+index.  
+ - 3 - 
+Even with the slowdown in rent growth, rents continue to rise faster than overall 
+inflation, as was the case before the pandemic.4 
+Nevertheless, rents have not risen at a faster pace than household incomes.   The 
+constant -quality cost of a rental unit relative to  the median family income is currently no 
+higher than its average from 2014 to 2019.  The share of renters spending more than 30 
+percent of their income on rent was about the same in 2023 as it was in 2019, about 40 
+percent in both years.  Of course, this fraction is high, indicating that rental housing is a large expense for many families .  This ratio is significantly  higher for certain groups.  In 
+2023, 43 percent of Hispanic households spent more than 30 percent of their income on 
+rent, while  47 percent of Black households spent that share.  For h ouseholds whose head 
+did not attend college , the figure is 4 6 percent .
+5 
+Cost of Homeownership  
+While shelter is a necessity, homeownership is an opportunity  because it is a 
+pathway for families to build wealth.  It also provides a greater sense of stability because owner -occupants do not have to worry about a landlord deciding not to renew the lease.  
+Like renting,  the costs of purchasing and owning a house are  elevated . 
+The cost of homeownership is related to several factors.  One is the cost of 
+purchasing a home.  Like  rent, house  price growth has slowed from the fast pace seen a 
+few years ago, and t his slowing has been more pronounced for higher -priced homes.  
+Zillow’s index for high -value homes increased 1 percent per year over the past three 
+ 
+4 From 2015 to 2019, the rent component of the PCE price index rose 3. 7 percent per year, more than 
+double the rate of increase of the PCE price index excluding rent and owner -occupied shelter , 1.2 percent 
+per year.  
+5 Calculations are based on household- level data from the 2023 American Community Survey provided by 
+IPUMS ; see Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. 
+Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams  (2025),  
+IPUMS USA , version 16.0 [dataset] (Minneapolis, Minn. :  IPUMS ), https://doi.org/10.18128/D010.V16.0 . 
+ - 4 - 
+years, whereas it increased 3 percent per year for low -value homes.6  Despite this 
+slowdown, the level of prices is quite high, even relative to income .  The ratio of house 
+prices to median family income is about 20 percent higher than its average from 2014 to 
+2019. 
+In addition, the costs associated with owning a home are also elevated .  Mortgage 
+rates have ranged between 6 and 7.5 percent in the past several years.  Property taxes 
+have risen along with home values.  Homeowners insurance premiums have increased  as 
+insur ers seek  to offset expenditures tied to recent natural disasters  and the rising cost of 
+replacing structures .  Federal Reserve Board staff research shows that , factoring in high 
+house prices, mortgage rates, property taxes , and homeowners’ insurance, the  costs of 
+owning a home relative to median income in 2023 were at the highest level seen since 
+1980.7 
+Given these costs, it is no surprise that some families cannot afford a home .  
+Board staff research shows that increases in mortgage rates reduce purchases by lower -
+income borrowers, especially low -income first- time homebuyers.8  And , indeed, t he 
+homeownership rate of heads of households younger than 45 decreased from 2022 to 2024.  This decline is  a partial reversal of changes seen in the pr evious  few years when a 
+combination of very low interest rates and fiscal support caused ownership rates to rise.  Yet, o n net, the ownership rate for several groups remains above levels recorded before 
+ 
+6 This reference  reflects data through May.  Zillow’s high-value index reflects value for homes within the 
+65th to 95th percentile range for a given region , and the low -value index reflects value for homes within the 
+5th to 35th percentile range for a given region .  See Zillow Research (2025), “ Housing Data ,” webpage, 
+https://www.zillow.com/research/data . 
+7 See Raven Molloy  (2025), comment on “America’ s Housing Supply Problem: The Closing of the 
+Suburban Frontier? ” by Edward Glaeser and Joseph Gyourko, paper presented at the Brookings Papers on 
+Economic Activity  Conference, held at the Brookings Institution, Washington, March 28 . 
+8 See Daniel Ringo  (2024),  “Monetary Policy and Home Buying Inequality ,” Review of Economics and 
+Statistics  (March ), pp. 1–46. 
+ - 5 - 
+the pandemic.  In 2024, homeownership rates for household heads age d 35 to 44 were  
+62 percent, 2 percentage points above their  2019 level.  The ownership rates for Black 
+households were  4 percentage points higher, and the rate for Hispanic households was 
+1.5 percentage points higher.9 
+Demand Factors  
+ The relative affordability of housing is the outcome of the forces of supply and 
+demand.  Let me first focus on the long -run trends on the demand side, where household 
+growth—that is, the change in the number of households over time —plays an important 
+role.  Household growth is a function of population growth and household size .  In the 10 
+years before  the pandemic , the U.S. population rose slightly less than  1 percent a  year .  
+Immediately following the pandemic , population grew at a faster rate, reflectin g a higher 
+volume of immigration.   That trend has since reversed .  Academic research examining 
+immigration flows find s that rent growth increases in the short run after a  wave  of 
+immigration, but these rent increases may not persist if the housing supply expands  over 
+time to meet the increase in housing demand.10  In fact, a  study found that increases in 
+immigration do lead to more residential construction.11  In terms of the whole population, 
+the Census Bureau projects that population growth will ease over the next 10 years but 
+ 
+9 The homeownership statistics are fro m the Housing Vacancy Survey;  see U.S. Census Bureau (2025), 
+“Housing Vacancies and Homeownership,” webpage, https://www.census.gov/housing/hvs/index.html . 
+10 See Albert Saiz (2003), “Room in the Kitchen for the Melting Pot:  Immigration and Rental Prices,” 
+Review of Economics and Statistics, vol. 85 (August ), pp. 502– 21; Albert Saiz (2007), “Immigration and 
+Housing Rents in American Cities,” Journal of Urban Economics, vol. 61 (March), pp.  345– 71; Abeba 
+Mussa, Uwaoma G. Nwaogu, and Susan Pozo (2017), “Immigration and Housing:  A Spatial Econometric 
+Analysis,” Journal of Housing Economics, vol. 35 (March), pp. 13–25; Umut Unal, Bernd Hayo, and Isil 
+Erol (2024), “The Effect of Immigration on Housing Prices:  Evidence from 382 German Districts,” 
+Journal of Real Estate Finance and Economics  (May), pp.  1–39; and Ibrahim Alhawarin, Ragui Assaad, 
+and Ahmed Elsayed (2021), “Migration Shocks and Housing:  Short -Run Impact of the Syrian Refugee 
+Crisis in Jordan,” Journal of Housing Economics, vol. 53 (September), 101761 .  
+11 See Libertad Gonzalez and Francesc Ortega (2013 ), “Immigration and Housing Booms:  Evidence from 
+Spain,” Journal of Regional Science,  vol. 53 (February), pp. 37– 59. 
+ - 6 - 
+remain  positive , based on mortality rates, birth rates, and the age distribution of the 
+population.12  Thus, population growth should put less upward pressure on demand for 
+housing going forward.  
+Let me turn to some cyclical forces on the housing demand side, with some 
+factors pushing demand in opposite directions.  A strong labor market for several years 
+has fueled demand for both renting and owning housing, while t he recent increase in 
+mortgage rates and other costs of ownership ha ve damped dema nd for owning.       
+Supply Factors  
+Turning to housing supply, it is no surprise to those in this room that it has been 
+increasing at  too slow  of a rate relative to demand.  R esearch show s that growth of the 
+housing stock has declined steadily since the 1960s and 1970s.  Specifically, it estimate s 
+that if the housing stock had expanded at the same rate from 2000 to 2020 as it did from 
+1980 to 2000, there would be 15 million more housing units in the U .S.13   
+Research finds that local regulations are an important factor constraining the 
+housing supply, leading to higher house prices .14  In response , some state and local 
+governments have begun to enact policy changes aimed at relaxing these supply 
+restrictions .  For example, in 2020 Minneapolis enacted a large- scale zoning reform that 
+ 
+12 The Census Bureau makes a range of population growth projections under various assumptions about  
+immigration.  This statement refers to its projections under its baseline immigration assumption and its 
+low-immigration  assumption .  Under its high-immigration assumption, population growth would be about 
+in line with that seen over the past decade.  
+13 See Edward L. Glaeser and Joseph Gyourko (2025),  “America’s Housing Supply Problem:  The Closing 
+of the Suburban Frontier? ” NBER Working Paper Series  33876  (Cambridge, Mass.:  National Bureau of 
+Economic Research, May), https://www.nber.org/system/files/working_papers/w33876/w33876.pdf . 
+14 For summaries on the literature, see Joseph Gyourko  and Raven Molloy  (2015),  “Regulation and 
+Housing Supply ,” in Gilles Duranton, J. Vernon Henderson, and William C. Strange, eds., Handbook of 
+Regional and Urban Economics , vol. 5  (Amsterdam:  North -Holland),  pp. 1289– 1337 ; and Nathaniel 
+Baum -Snow and Gilles Duranton  (2025),  “Housing Supply and Housing Affordability ,” NBER Working 
+Paper  Series 33694  (Cambridge, Mass.:   National Bureau of Economic Research , April), 
+https://www.nber.org/papers/w33694.  
+ - 7 - 
+eliminated parking requirements  for new development, encouraged apartment 
+development in commercial corridors, and permitted duplex and triplex construction on 
+all residential lots . These zoning reforms may  have boosted construction in Minneapolis.  
+Other states and cities have also implemented  policies  intended to increase the number of 
+housing units, but it is still too early to tell whether these changes will meaningfully 
+affect house prices or rents.  
+Material and labor  costs  for home construction have increased about 25 percent in 
+real terms since the mid -2000s .15  Recent policy changes at the national level  could 
+further increase those costs.   Anecdot al reports, including those in the Beige Book, 
+suggest that changes in immigration policy are starting to restrict the supply of construction workers .  Research has found that past declines in immigration have reduced 
+residential construction while increasing housing prices.
+16  In terms of tariff policy  
+changes, to date there has been some  effect on homebuilder costs.  The National 
+Association of Home Builders  estimates tariff policy , including tariffs on steel and 
+aluminum, has increased the cost of new construction by about 3 percent  of the  average 
+price of a new home , and additional  tariffs , such as the one proposed on imported lumber , 
+could raise construction costs further.   
+Another aspect of housing supply is the number of homes for sale.  Elevated 
+interest rates have made it much less appealing for existing owners who have a mortgage 
+with a low fixed rate to sell and purchase a different house, because doing so would 
+require  them to take out a new mortgage at a much higher rate.  Therefore, the supply of 
+ 
+15 See Glaeser and Gyourko, “ America ’s Housing Supply Problem ,” in note 13 . 
+16 See Troup Howard , Mengqi  Wang , and Dayin Zhang (2024),  “Cracking Down, Pricing Up:  Housing 
+Supply in the Wake of Mass Deportation,” working paper, October.  
+ - 8 - 
+existing homes for sale in the past few years has been much lower than normal .  Board 
+staff research shows that this “rate lock -in” effect has boosted house prices in markets 
+that were already tight in 2019, because the decrease in homes for sale was proportionally 
+larger than the decrease in the number of potential buyers.17 
+Considering  all these factors in concert, the housing market has gone through 
+some pronounced swings over the p ast four years.  Looking through these ups and downs, 
+growth in demand for shelter has continued to outpace supply, putting upward pressure on rents across a wide range of locations and types of families.  Although rent growth has not been faster than inco me growth, rental expenditures are still a large fraction of 
+income for many households.  House prices have risen, too, and combined with elevated 
+mortgage rates and increases in other ownership costs, the cost s of owning a home are 
+high relative to Americans’ incomes.  
+Looking forward, growth in housing demand may soften over the second half of 
+this decade because of  a slowdown in population growth.  B ut even with this softening, it 
+is not clear that growth in the housing supply will be large enough to meet demand.  Prospects for house prices and rents over the next few years also depend materially on the economic outlook, to which I will turn now. Economic Outlook  
+I will start by saying that while m y discussion so far has focused on the housing 
+market, I look at economic conditions across the entire economy and in every region of the country when making monetary policy decisions.  Thus , I pursue the monetary policy 
+ 
+17 See Aditya Aladangady, Jacob Krimmel, and Tess  Scharlemann (202 4), “Locked In:  Mobility , Market 
+Tightness, and Hous e Prices,” Finance and Economics Discussion Series  2024- 088 (Washington:  Board of 
+Governors of the Federal Reserve System, November; rev. May 2025), 
+https://www.federalreserve.gov/econres/feds/locked- in-rate-hikes -housing -markets -and-mobility.htm . 
+ - 9 - 
+that I believe will achieve our dual -mandate goals of maximum employment and price 
+stability for all Americans.  
+Overall , I see the labor market as stable and resilient, and economic activity 
+moderating some.  In contrast, I see  upward pressure on inflation from trade polic ies, and 
+I expect additional price increases later in the year.   While I am monitoring policy 
+developments  in many areas, I continue to see trade developments as the key drivers of 
+the U.S. economic outlook.  
+Starting with price stability,  based on data received this week , it is estimated that 
+the headline  PCE price index rose 2.5 percent on a 12- month basis in June , a somewhat 
+stronger gain than the 2. 3 percent recorded in May.  Core inflation , which exclude s 
+volatile food and energy cost s and is a good guide for future inflation, came in at about 
+2.8 percent  in June , also higher than in May .  Both headline and core inflation have 
+shown no progress in the last six months.  While core services inflation decreased relative 
+to the end of last year , core goods inflation has pushed up inflation recently. 
+I see firmer core goods inflation as already partially reflecting the pass -through of 
+increased tariffs , which has been shown  by research done at the Fed .18  In addition, CPI 
+and PPI reports released in the past two days show that increases in core goods prices 
+were more broad -based in the month of June. While many forecasters may have been 
+expecting a sooner and sharper increase in overall inflation, there are many reasons to 
+think that large r effects of tariffs are still coming .  First, b usinesses built up inventories 
+ahead of anticipated tariff increases, giving them leeway to still sell goods at pre -tariffed 
+ 
+18 See Rob bie Minton and Mariano Somale (2025),  “Detecting Tariff Effects on Consumer Prices in Real 
+Time, ” FEDS Notes (Washington:  Board of Governors of the Federal Reserve System, May 9) , 
+https://www.federalreserve.gov/econres/notes/feds -notes/detecting -tariff -effects -on-consumer -prices -in-
+real-time-20250509.html.  
+ - 10 - 
+prices.   Second, given the many changes in implemented tariff polic ies, businesses may 
+not yet be passing the higher tariffs to their selling prices because they are wait ing for 
+greater clarity .  Third, businesses, especially larger ones, may also be waiting to capture 
+market share from other s that  hike  prices sooner .  Fourth, the current environment of still-
+elevated short -run inflation expectations  makes it  easier for workers to seek higher wages 
+and business to charge higher prices , which could increa se the persistence of price hikes  
+going forward.  Fifth, tariff rates could increase further, as seen in newly proposed 
+reciprocal tariffs for several countries and the new tariffs on copper introduced last week, putting further upward pressure on prices.  
+Other unforeseen shocks, such as geopolitical ones, may further push inflation 
+upward soon.  Board staff research shows that increased geopolitical risk is associated with high inflation in the U.S., with effects peaking about two years after the geopolitical shock.
+19  Renewed tensions in the Middle East , together with the possibility of an 
+extension and escalation of the Russian invasion of Ukraine , are important geopolitical 
+risks to monitor.  
+Turning to the em ployment side of our mandate, I see a labor market that has been 
+stable and resilient .  The June employment report showed that employers added  a robust  
+147,000 jobs , boosted by jobs in the state and local government sector .  Private payroll 
+employment increased by 74,000, showing some moderation relative to previous months.  Additionally, the  unemployment rate has stayed in a narrow and historically low range 
+for more than a year.  L ayoff measures have remained subdued , and the ratio of job 
+ 
+19 See Dario  Caldara, Sarah Conlisk, Matteo Iacoviello, and Maddie Penn  (2024),  “Do Geopolitical Risks 
+Raise or Lower Inflation ?” working paper, April . 
+ - 11 - 
+vacancies to unemployed workers has largely been stable at a level that suggests demand 
+and supply for labor are roughly balanced. Conclusion 
+Considering the near -term outlook that I just outline d, I see that the U.S. economy 
+has remained resilient, with labor markets appearing to be stable and close to full employment.  Inflation, meanwhile, remains above the FOMC’s 2 percent goal  and is 
+facing upward pressure from implemented tariffs .  Moreover, I judge that inflation is 
+likely to increase further as tariff effects build up  during the rest of the year. 
+Given the stability in the employment side of our mandate, with the 
+unemployment rate  still at historically low level s, elevated short -run inflation 
+expectations , and goods inflation rising due to the upward pressure from tariffs,  I find it 
+appropriate to hold our policy rate at  the current level for some time .  This still- restrictive  
+policy stance is important to keep longer -run inflation expectations anchored.  Moving 
+forward , I will make policy decisions based on incoming economic data , the evolving 
+outlook, and my assessment of  risks  to both sides of our dual mandate . 
+Thank you for the opportunity to speak with you today.  
+  

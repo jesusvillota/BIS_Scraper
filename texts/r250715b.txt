@@ -1,0 +1,339 @@
+1/8 BIS - Central bankers' speechesChristopher J Waller: Demystifying the Federal Reserve's balance 
+sheet
+Speech by Mr Christopher J Waller, Member of the Board of Governors of the Federal 
+Reserve System, at the Federal Reserve Bank of Dallas, Dallas, Texas, 10 July 2025.
+* * *
+Thank you, Lorie. Let me start by expressing my deepest condolences to the families 
+and loved ones of those harmed by the flooding in the Hill Country. I cannot imagine the 
+pain and anguish they are feeling. My prayers go out to all those affected.
+Turning to my remarks for today, thank you also for the opportunity to speak to you 
+about the Fed's balance sheet, one of the more complex, and, I believe, misunderstood 
+aspects of the Federal Reserve's role as a central bank. To level set the conversation, 1
+let me start with some simple facts. In August of 2007 our balance sheet was around 
+$870 billion, equal to approximately 6 percent of nominal gross domestic product 
+(GDP). Today it is around $6.7 , with a, which is about 22 percent of GDP. This  trillion  t
+is down significantly from its maximum size of nearly $9 trillion in early 2022 but still 
+quite large. Since nominal GDP has essentially doubled since 2007, if our balance 
+sheet had grown at the same rate, it would be around $1.7 trillion today-not $6.7 trillion.
+An obvious question is why our balance sheet is so much larger than economic growth 
+would have predicted. As an aside, let me point out that there is no consensus among 
+economists about how large a central bank balance sheet should be, but it is logical to 
+ask: if monetary policy worked when the balance sheet was 6 percent of GDP, why is it, 
+and perhaps needs to be, proportionally so much larger now?
+A major reason is that the Federal Reserve embarked on two major balance sheet 
+policy initiatives over the past twenty years to respond to urgent problems in the 
+economy. First, we engaged in quantitative easing, or QE, to provide support to the 
+economy after the advent of the Global Financial Crisis and then again with the COVID-
+19 pandemic. Second, we consciously changed our implementation framework for 
+providing liquidity to the banking system by moving from a scarce-reserves system to 
+an ample-reserves system. This change was necessary because there were 
+shortcomings with the scarce-reserves approach-short-term rates were harder to 
+control and required daily interventions in the markets by the Fed, and these problems 
+were made worse when rates were at or near zero. The Federal Open Market 
+Committee (FOMC) explicitly stated its commitment to ample reserves in 2019, when 
+we were gradually shrinking our balance sheet, concluding that this approach would be 
+used over the longer-run, and it soon proved very useful when the pandemic again 
+brought rates to zero.2
+Although these are two fundamentally different reasons for changing the size of our 
+balance sheet, we did them more or less at the same time. This has caused confusion, 
+with some people thinking that the Fed is choosing to keep the balance sheet larger 
+than it needs to be. This confusion is amplified by the fact that there are external forces 
+that have boosted the size of our balance sheet that are not under the control of the 
+Federal Reserve. My goal today in this speech is to disentangle each of these forces 2/8 BIS - Central bankers' speechesand try to demystify the role of our balance sheet in conducting monetary policy. I also 
+want to clarify issues that are currently being discussed in the public domain. I agree 
+that the balance sheet needs to shrink but, as I will show, not by as much as some 
+believe it should. I will also explain why the composition of the balance sheet matters as 
+much as its size and how changes are needed there as well.
+I know from teaching this topic over the years to my undergraduate students that unless 
+you are an accountant or a banker, you would probably rather go to the dentist than 
+listen to a speech about the Fed's balance sheet. I hope to explain it clearly enough that 
+you can leave here and engage in the public debate with a better understanding of the 
+issues. To do so, the approach I want to take is the following. Suppose the Fed had 
+never used quantitative easing and simply decided to move to an ample-reserves 
+system from a scarce-reserves system. How would the liability and asset sides of our 
+balance sheet change in response to this one policy decision? After addressing this 
+question, I will then discuss how QE affects our balance sheet and also some difficult 
+tradeoffs that arise when engaging in QE.
+The Big Three Liabilities
+For any balance sheet, we start with the asset and liability entries. Assets are things 
+that are owned, and liabilities are things that are owed to others at a given point in time. 
+I will start by listing the big three liabilities on the Fed's balance sheet and the 
+characteristics of those liabilities. There are other types of liabilities (and capital) that 
+must be accounted for, but they are too small to matter for the policy matters I want to 
+discuss, so I will ignore them. After discussing these "big three" liabilities, we can 
+consider what assets should be held to match those liabilities.
+The first big liability of the Federal Reserve is currency outstanding. The Fed supplies U.
+S. dollars elastically to the public, based on demand, distributing dollars through banks.3
+ That demand, which is not controlled by the Fed, is basically determined by how fast 
+the economy-and thus the need for cash-is growing. At the end of 2024, the amount of 
+dollars in circulation was $2.3 trillion. That is up considerably from around $800 billion in 
+2007 after which the overall balance sheet began growing sharply. Even in terms of 
+GDP, currency has increased, from 5.5 percent of GDP in 2007 to almost 8 percent 
+today. So, an important point that many do not realize is that the Fed's balance sheet 
+has expanded, especially in nominal terms, from increased demand for U.S. currency.4
+What are the characteristics of currency as a liability? First, it is non-interest bearing. 
+Second, it never "matures" as other debt obligations do. Let's just say that currency is 
+different from other liabilities-it pays no interest, and you never get back your initial 
+payment for acquiring it. If you come to the Fed and ask us to redeem a dollar bill, we 
+will simply give you another dollar bill.
+The second big liability is the Treasury General Account, or TGA. The Federal Reserve 
+is the fiscal agent of the U.S. Treasury, which means that we are the bank for the U.S. 
+government and the TGA is the Treasury's checking account. What are the 
+characteristics of the TGA? First, it is a short-term liability that moves up and down as 
+cash flows in and out of the account as the Treasury receives tax and other payments 
+and pays its bills. Second, we do not pay interest to the Treasury on its account 
+balances. Finally, given the asynchronous timing of payments and receipts, the TGA 3/8 BIS - Central bankers' speechescan vary significantly, especially when the debt ceiling is binding. During 2024, it 
+generally fluctuated between about $650 billion and $950 billion, briefly peaking at 
+around $960 billion during the April tax season. Due to this year's debt ceiling 
+constraint, the TGA fell from its 2024 average of $780 billion to about $325 billion 
+recently, and with the debt ceiling just increased, there will be a quick rebuild in the 
+coming weeks. So, it is not unusual for the TGA to fluctuate by several hundred billion 
+dollars. This situation is very different than the one in 2007 when the TGA was 
+deliberately held steady at $5 billion each day. This change reflects both how much 
+federal spending has grown in that time and also a shift in accounting in 2015 to holding 
+an estimated week's worth of federal payments in the TGA-a decision made by the 
+Treasury to better manage its cash flow.
+An important point that applies to both currency and the TGA is that the Federal 
+Reserve does not have control over the size of these liabilities and hasn't been 
+responsible for their sharp increases. Together, they represent about $3 trillion of our 
+$6.7 trillion balance sheet, or roughly 10 percent of nominal gross domestic product. 
+So, the size of the Fed's balance sheet, which is now about 22 percent of nominal GDP, 
+is nearly half accounted for by these two liabilities that are not under the Fed's control. 
+Those who argue that the Fed could go back to 2007, when its total balance sheet was 
+6 percent of GDP, fail to recognize that these two factors make it impossible.
+The third big liability on the Fed's balance sheet is reserves, which are the funds that 
+depository institutions hold in accounts at the Fed. In effect, these are the checking 
+account balances of the banking system that are held at the Federal Reserve. What is 
+the characteristic of reserves held by banks? First, much like the TGA, they are short 
+term in nature and very liquid-in effect like digital cash. They are the safest and most 
+liquid asset in the financial system and used to conduct payments between banks. The 
+reserve balances that an individual bank holds can increase or decrease, depending on 
+the flow of payments between banks. Much like the TGA, an individual bank's reserve 
+holdings can be volatile. But these payments do not change the total amount of 
+reserves in the banking system-they simply transfer them from one bank to another. So, 
+while reserve balances of individual banks can move around, total reserves are more 
+stable, and the total amount of reserves in the system is directly controlled by the 
+Federal Reserve. Second, in October 2008, Congress authorized the Federal Reserve 
+to pay interest on these liabilities. Besides ending the implicit tax on banks for holding 
+reserves, it was a step aimed at helping the Fed conduct monetary policy effectively, 
+which it does, but it is sometimes inaccurately criticized as a giveaway to banks. I will 
+address this point a little later. But I mention it here because the amount of reserves in 
+the system affects the total payment flow the Fed must make to banks at the current 
+interest rate on reserves.
+Assets Backing These Liabilities
+By the definition of a balance sheet, these liabilities must be matched by assets held by 
+the Federal Reserve. Let's consider matching assets to our currency liability. As I said 
+earlier, currency pays no interest and never matures. So, we can hold assets of any 
+maturity length to offset our liability for currency. Since currency pays no interest, any 
+interest earned off these assets is pure profit. Given that longer-maturity assets 
+generally pay higher interest rates and are less volatile, it seems reasonable to hold 
+longer maturity assets against our currency liability.4/8 BIS - Central bankers' speechesNow consider the TGA liability. We also pay no interest on the TGA. But, unlike 
+currency, a problem with the TGA is that it can vary substantially, which makes total 
+reserves in the system more volatile. This link to reserves is because when tax 
+payments are made to the Treasury, we debit the payer's bank reserves and credit the 
+Treasury's TGA account. When the Treasury makes a payment, we debit the TGA and 
+credit the recipient bank's reserve account. Thus, volatile movements in the TGA affect 
+the Fed's reserve management policy. There are two ways to deal with this situation: 
+hold a buffer of reserves to ensure movements in the TGA do not affect market liquidity 
+or hold short-maturity assets that we can expand or contract to sterilize movements in 
+the TGA such that total reserves in the banking system are unchanged. The first 5 
+strategy suggests the buffer stock of assets could take the form of somewhat longer 
+maturity, while the second strategy could require holding short-term assets that can 
+easily be bought and sold with little interest rate risk.
+That brings us to reserves. As I mentioned, reserves are a short-maturity liability which 
+pay interest, which suggests that the Fed should consider holding short maturity assets 
+against this liability. Treasury bills and short-maturity Treasury notes are the safest and 
+most liquid assets, so it would make sense to hold them against reserves. If the interest 
+rate earned on our short maturity Treasury assets is very close to the interest we pay 
+on reserves, then our interest earnings from the Treasury are simply passed through to 
+the banks. In this sense, our balance sheet is just another way to transfer interest 
+payments on Treasury securities from the Treasury to the banks.6
+Because of the minimal spread between these two short-term interest rates, banks are 
+largely indifferent to either holding reserves or the short-term Treasury securities we 
+hold-both are highly liquid and pay roughly the same rate of return. But layer on top of 
+this the fact that reserves are a bit more liquid than Treasury securities because banks 
+don't have to buy or sell the Treasury securities to get reserves, and banks are willing to 
+hold a lot of reserves. Since the Fed supplies these reserves, one might ask what it 
+costs taxpayers to supply a large amount of reserves. From the Treasury's point of 
+view, its interest expense is the same regardless of who holds the short-term Treasury 
+securities. So, the Fed can provide all the liquidity that banks need at zero marginal 
+cost, which makes me wonder why some want to make reserves scarce. I often use the 
+following analogy to drive this point home: If governments could provide clean, safe 
+drinking water for citizens at zero cost, why would they make it scarce?
+Now, one could ask why pay interest on reserves at all? Why not keep the interest 
+income generated on the assets we hold to back reserves and remit it back to the 
+Treasury? This seems like a no brainer! But there are a few reasons that interest on 
+reserves makes sense, including the following.
+First, paying interest on reserves that is commensurate to the rate paid on short-term 
+Treasury securities makes reserves attractive to banks, and holding reserves improves 
+the functioning of the financial system by giving banks more liquidity and greater scope 
+to settle payments in an orderly way. In contrast, if reserves bear no interest, then 
+commercial banks will have strong incentives to avoid holding a lot of reserves, and 
+instead hold short-term, interest-bearing assets like Treasury bills. If banks managed 
+their liquidity only by buying and selling Treasury securities, several banks selling 
+Treasury securities at the same time could flood the market and put undesirable upward 5/8 BIS - Central bankers' speechespressure on interest rates across the economy. An ample-reserves regime where we 
+pay interest on reserves ensures that there are enough reserves in the banking system 
+to avoid this kind of sell off in Treasury securities, helping to stabilize the financial 
+system without any harm to banks or their customers.
+The second part of the case for interest on reserves is that it isn't costing taxpayers any 
+money. As I noted earlier, whether the Fed or banks hold the Treasury securities, the 
+Treasury is paying interest on its debt. And, if the Fed is holding the Treasury securities, 
+then the interest payment from the Treasury to the Fed on the Treasury bills is matched 
+with an interest payment from the Fed to banks on their reserves. So, paying interest on 
+reserves is not creating any additional expense to the Treasury.
+But what is the appropriate level of ample reserves the Fed is trying to get to? There is 
+no clear answer to this question and that is what we are trying to discern. We want to 
+provide the amount of liquidity necessary, but we don't want to provide excessive 
+liquidity that banks do not want or need.
+One reason for increased demand for reserves is that since the Global Financial Crisis 
+changes in banking regulations led to a large shift in demand for high-quality liquid 
+assets. For example, bank liquidity regulations, such as the liquidity coverage ratio, 
+encouraged banks to hold high quality liquid assets. As these regulations came into 
+play, banks' demand for high-quality liquid assets, including reserves, increased 
+tremendously relative to 2007.
+I think of ample reserves as the threshold below which banks would need to scramble 
+to find safe, liquid funding, something that would drive up the federal funds rate and 
+money market interest rates across the economy. We have some experience with 
+testing the level of ample reserves during an episode of stress in the financial system 
+that occurred in 2019. At the start of that year, reserves stood at about 8 percent of 
+nominal GDP, and we were continuing to reduce our balance sheet with no apparent 
+stress among banks or otherwise in the financial system. In September 2019, reserves 
+fell below 7 percent of nominal GDP, and stresses appeared in the financial system, 
+requiring the Fed to step in and take action to add reserves. So, I start from the view 
+that problems emerged when reserves fell below 8 percent of GDP. One might argue 
+that banks are now larger relative to GDP, so they may desire a bit more reserves. 
+Furthermore, there is also a genuine concern that it is not only the total amount of 
+reserves that matters but also the distribution of reserves across the banking system. 
+So, I would add a buffer to the 8 percent of GDP that I cited earlier and assume 9 
+percent is the threshold below which reserves would not be ample. That would mean, 
+as of today, that $2.7 trillion of reserves is roughly ample-it could be more or less in 
+practice, but let me use it as a benchmark.
+So, putting the pieces of this hypothetical minimum balance sheet together, we have an 
+estimated $2.7 trillion in reserve balances, $2.3 trillion in currency, and an average of 
+$780 billion in TGA liabilities. This combined means the Fed should be operating with a 
+balance sheet that is roughly $5.8 trillion dollars or 19 percent of GDP. Close to half of 
+this proportional increase from 2007, as I noted, comes from currency and TGA growth 
+outside the Fed's control, and the rest from a transition to an ample reserves regime 
+that has been a necessary, efficient and more effective way of managing monetary 
+policy.6/8 BIS - Central bankers' speechesIn summary, if we had simply adopted an ample reserves system and backed these 
+liabilities as I suggested without engaging in quantitative easing, there are three key 
+takeaways: (1) we would be earning a net profit off of the assets backing currency and 
+the TGA, (2) the assets backing ample reserves would simply be a way to transfer 
+interest payments to the banks, and (3) we would hold short to medium term assets that 
+could be bought or sold to neutralize large movements in the TGA to keep total 
+reserves stable. With this balance sheet, the Federal Reserve would never run losses, 
+the banks would have ample liquidity for market functioning, and the Fed would not face 
+serious interest rate risk on its asset holdings.
+Today's Balance Sheet and Where We Are Heading
+At this point there are going to be people somewhere shaking their fists and yelling that 
+what I have said is simply false because the Federal Reserve is currently losing money 
+on its balance sheet. Our interest expense on reserves is now exceeding our interest 
+income on our asset holdings. This is all true. But this outcome is because of engaging 
+in QE for many years since 2007, not because we are running an ample reserves 
+system. Remember, what I have described so far is what an optimally designed balance 
+sheet would look like if we had never engaged in QE and simply moved to an ample-
+reserves system.
+Let me now do the following. Assume we have a balance sheet that corresponds to an 
+ample-reserves system, but now the Fed engages in QE as a means of conducting 
+monetary policy to support the economy.
+The Federal Reserve engaged in QE programs when the policy rate was driven down to 
+zero because of severe shocks to the economy after the Global Financial Crisis and 
+then because of the COVID-19 pandemic. Once the policy rate is at zero, the Federal 
+Reserve is constrained in its ability to use its traditional tools to provide further support 
+for the economy. The idea of QE is to buy longer-duration securities as opposed to 
+short-duration assets. By increasing the demand for long-dated securities, the Fed 
+drives up the price and drives down the yield on those securities. By lowering longer-
+term yields the Fed is able to loosen financing conditions to stimulate aggregate 
+demand. The Fed typically buys longer-dated Treasury securities during QE, but it also 
+bought agency mortgage-backed securities that have the implicit backing of the U.S. 
+Treasury and are issued by Fannie Mae and Freddie Mac, the two government-
+sponsored enterprises.
+QE affects our balance sheet in material ways that differ from what happens if one is 
+simply constructing the balance sheet to support ample reserves, currency, and the 
+TGA. First, it increases the duration of our balance sheet beyond what we would hold 
+just for currency. Longer-duration assets are more prone to interest rate risk, and the 
+lower the interest rates on those assets, the lower interest income the Fed will receive 
+far into the future. If interest rates rise suddenly or over time as the economy recovers, 
+those assets lose value (in substantial amounts), which lowers the unrealized value of 
+our portfolio. Second, we use short-term reserves to buy the longer duration assets 
+which leads to a maturity mismatch between our assets and our liabilities. So, the 
+additional reserves that are injected from QE may not be costless when short-term 
+rates rise, as they did in 2022, meaning that interest paid on those additional reserves 
+will exceed what is earned on the long-term assets that were purchased with them.7/8 BIS - Central bankers' speechesThis effect highlights the fact that engaging in QE involves a tradeoff for the Federal 
+Reserve-trying to support the economy in serious economic downturns at the zero 
+lower bound while creating a maturity mismatch between our assets and liabilities that 
+brings interest rate risk onto our balance sheet. This tradeoff does not happen if we 
+simply structure our balance sheet to support an ample-reserves system. The decision 
+to engage in QE requires the Federal Reserve to weigh the benefits and costs from this 
+action. Those benefits and costs are often difficult to quantify at the time QE is 
+undertaken. It is only with hindsight that we can fully assess them, which is one of the 
+challenges of making policy in real time.
+Where do we stand today? The Federal Reserve is operating with an abundant, or 
+more than ample, level of reserves, and our securities holdings are tilted toward longer-
+dated maturities. We are shrinking the balance sheet to get back to a size consistent 
+with an ample reserves system. As of last month, banks had nearly $3.4 trillion of 
+reserves with the Fed, accounting for about 11 percent of nominal GDP. Given my 7 
+rough estimate of the level of reserves needed to be ample, I believe we can likely 
+continue to let a share of maturing and prepaying securities roll off our balance sheet 
+for some time, reducing reserve balances. Of course, we will continue to carefully 
+monitor financial markets as we go.
+For me, the bigger problem with our balance sheet is that the maturity structure of our 
+assets to support an ample-reserves system is not well matched. We have far too many 
+long-term assets on our balance sheet relative to my arguments for how to structure the 
+balance sheet. I argued that long-term assets should only be held against currency 
+liabilities, which are $2.3 trillion. But we hold about $2.3 trillion in agency mortgage-
+backed securities alone! So the duration of our asset portfolio is far too long for the 
+liabilities we need to hold for an ample-reserves system.
+If the Fed moved forward with a maturity-matching strategy as I suggest, it would hold 
+about half of its Treasury securities in shorter-dated bills. There have been some 
+advocates who support moving toward the Federal Reserve having a Treasury 
+securities portfolio whose composition mimics the breakdown, or "universe," of total 
+Treasury securities outstanding. This would mean having about 20 percent of our 
+current balance sheet in bills. The argument for this maturity structure is that with this 
+approach, the Fed's holdings would not be putting pressure on any one segment of the 
+yield curve. This is a valid argument, but it would put more duration on our balance 
+sheet and expose the Fed to potential income losses, as we have witnessed the past 
+few years. Maybe that is a tradeoff we should make to avoid distorting our demand for 
+Treasury securities relative to the market's demand. In the end, I support continuing the 
+conversation about what the ultimate composition should be. My objective today was to 
+try to clarify what an ample-reserves balance sheet should look like as a starting point 
+for this conversation.
+In the years ahead, moving our portfolio toward shorter-duration securities will be a 
+slow process unless we were to take the dramatic step of selling existing securities to 
+replace them with Treasury bills. When reserves hit their desired ample level and we 
+need to increase securities holdings in line with growth in autonomous factors, like 
+currency and the TGA, we can actively accumulate bills, if we do not take other actions 
+sooner.8/8 BIS - Central bankers' speechesI hope that taking a deep dive into a few line items on the Fed's balance sheet has 
+helped to see some issues that lie ahead. Though the FOMC has not finalized its 
+desired efficient and effective size and composition of the balance sheet, it seems 
+apparent that today's portfolio should be adjusted. And there are obvious steps to take. 
+We are reducing the size of the balance sheet slowly and need to consider shifting it 
+toward more bills. As we do so, we should do it gradually and predictably, so the 
+markets and public are fully aware of our actions.
+1 The views expressed here are my own and are not necessarily those of my 
+colleagues on the Board of Governors or the Federal Open Market Committee.
+2 In January 2019 the FOMC released the Statement Regarding Monetary Policy 
+Implementation and Balance Sheet Normalization, which is available on the Board's 
+website at  https://www.federalreserve.gov/newsevents/pressreleases
+. /monetary20190130c.htm
+3 The Federal Reserve supplies currency on demand to ensure that commercial bank 
+money trades one for one with currency. This creates certainty that a customer's 
+demand to transform one unit of commercial bank money into a unit of currency will be 
+met.
+4 Judson (2024) estimates that a significant share of demand for U.S. currency comes 
+from abroad, especially in the $100 denomination; see Ruth Judson (2024),  "Demand 
+International Finance for U.S Banknotes at Home and Abroad: A Post-Covid Update,"  
+Discussion Papers 1387 (Washington: Board of Governors of the Federal Reserve 
+System, March).  
+5 For a discussion of the short-maturity assets approach, please see Annette Vissing-
+Jorgenson (forthcoming), "Fluctuations in the Treasury General Account and the Fed's 
+Balance Sheet," FEDS Notes (Washington: Board of Governors of the Federal Reserve 
+System). 
+6 For accounting purposes, our net interest income on these assets backing reserve 
+balances would be near zero.
+7 As I noted, there will be a replenishing of the TGA in coming weeks. This action will 
+reduce reserves commensurately.  
+Note: On July 10, 2025, a typo was corrected in this sentence to change "reserves" to 
+"Treasury securities": "And, if the Fed is holding the Treasury securities, then the 
+interest payment from the Treasury to the Fed on the Treasury bills is matched with an 
+interest payment from the Fed to banks on their reserves."
