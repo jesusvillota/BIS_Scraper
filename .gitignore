@@ -1,5 +1,7 @@
 # Ignore downloaded PDFs
 /downloads/
+/tutorial/comparison/
+/tutorial/downloads/
 
 # Ignore TODO file
 TODO.md
