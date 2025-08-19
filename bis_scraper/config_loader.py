@@ -16,6 +16,7 @@ def load_config(path: str) -> Dict[str, Any]:
     defaults = {
         "BASE_URL": "https://www.bis.org",
         "DOWNLOAD_DIR": "downloads",
+        "TEXT_DIR": "texts",
         "INITIAL_DATE": "01/01/2000",
         "FINAL_DATE": "11/08/2025",
         "PAGE_LENGTH": 25,
@@ -24,6 +25,7 @@ def load_config(path: str) -> Dict[str, Any]:
     for k, v in defaults.items():
         data.setdefault(k, v)
 
-    # Normalize download dir to ensure it exists later
+    # Normalize directories to ensure they exist later
     data["DOWNLOAD_DIR"] = os.path.normpath(str(data["DOWNLOAD_DIR"]))
+    data["TEXT_DIR"] = os.path.normpath(str(data["TEXT_DIR"]))
     return data

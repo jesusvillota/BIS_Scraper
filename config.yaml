@@ -1,5 +1,6 @@
 BASE_URL: "https://www.bis.org"
 DOWNLOAD_DIR: "downloads"
+TEXT_DIR: "texts"
 INITIAL_DATE: "01/01/2000"
 FINAL_DATE: "11/08/2025"
 PAGE_LENGTH: 10
