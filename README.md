@@ -1,5 +1,7 @@
 # Scrape BIS
 
+© Jesus Villota Miranda 2025. All rights reserved.
+
 Minimal repository wrapping the original `scrape-Bis.ipynb` notebook. It provides a YAML-configurable CLI entrypoint while keeping the original notebook untouched and fully usable.
 
 ## Quick start
@@ -21,3 +23,4 @@ This preserves the same behavior as the notebook: it iterates pages, opens each 
 ## Notes
 - You must have Google Chrome and a compatible ChromeDriver available on PATH for Selenium's `webdriver.Chrome()`.
 - The original notebook `scrape-Bis.ipynb` remains unchanged for users who prefer running it directly.
+
