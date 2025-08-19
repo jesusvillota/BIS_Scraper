@@ -1,26 +1,95 @@
-# Scrape BIS
+# BIS Scraper
 
 © Jesus Villota Miranda 2025. All rights reserved.
 
-Minimal repository wrapping the original `scrape-Bis.ipynb` notebook. It provides a YAML-configurable CLI entrypoint while keeping the original notebook untouched and fully usable.
+A comprehensive tool for scraping central bank speeches published by the Bank for International Settlements (BIS). This project provides an automated way to collect, download, and extract text from speech PDFs available on the BIS website.
 
-## Quick start
+## Project Purpose
 
-1. Install dependencies
+The BIS Scraper is designed to automate the collection of central bank speeches for research, analysis, and archival purposes. It navigates through the BIS website's speech repository, extracts links to speech PDFs, downloads them, and optionally converts them to plain text for easier analysis.
+
+## Features
+
+- Automated scraping of BIS central bank speeches
+- PDF downloading with configurable parameters
+- Text extraction from downloaded PDFs
+- Fully configurable via YAML configuration
+- Command-line interface for easy execution
+
+## Project Structure
+
+```
+BIS_Scraper/
+├── bis_scraper/            # Core package containing scraping logic
+│   ├── __init__.py         # Package exports
+│   ├── config_loader.py    # Configuration handling
+│   └── scraper.py          # Main scraping implementation
+├── downloads/              # Default directory for downloaded PDFs
+├── texts/                  # Directory for extracted text files
+├── config.yaml             # Configuration file
+├── main.py                 # CLI entry point
+├── pyproject.toml          # Project metadata and dependencies
+├── poetry.lock             # Dependency lock file
+├── requirements.txt        # Traditional requirements file
+└── README.md               # This documentation
+```
+
+## Getting Started
+
+### Installation
+
+#### Using Poetry (recommended)
+```bash
+# Install dependencies using Poetry
+poetry install
+# Activate the virtual environment
+poetry shell
+```
+
+#### Using pip
 ```bash
 pip install -r requirements.txt
 ```
 
-2. Adjust settings in `config.yaml` if needed.
+### Configuration
 
-3. Run
-```bash
-python main.py --config config.yaml
+Edit the `config.yaml` file to customize the scraper's behavior:
+
+```yaml
+BASE_URL: "https://www.bis.org"    # Base URL for the BIS website
+DOWNLOAD_DIR: "downloads"          # Directory for saving PDFs
+INITIAL_DATE: "01/01/2000"         # Start date for speeches (MM/DD/YYYY)
+FINAL_DATE: "11/08/2025"           # End date for speeches (MM/DD/YYYY)
+PAGE_LENGTH: 10                    # Number of results per page
+MAX_PAGE: 2                        # Maximum number of pages to scrape
 ```
 
-This preserves the same behavior as the notebook: it iterates pages, opens each review, finds a PDF link, and downloads it to the configured folder.
+### Usage
 
-## Notes
-- You must have Google Chrome and a compatible ChromeDriver available on PATH for Selenium's `webdriver.Chrome()`.
-- The original notebook `scrape-Bis.ipynb` remains unchanged for users who prefer running it directly.
+Run the scraper with the default configuration:
 
+```bash
+python main.py
+```
+
+Or specify a custom configuration file:
+
+```bash
+python main.py --config custom_config.yaml
+```
+
+
+## Requirements
+
+- Python 3.11 or higher
+- Google Chrome installed
+- ChromeDriver available on your system PATH (required for Selenium)
+
+## Dependencies
+
+- selenium: For browser automation
+- requests: For downloading PDFs
+- PyYAML: For configuration parsing
+- PyPDF2: For PDF text extraction
+
+For questions or contributions, feel free to open an issue or pull request.
