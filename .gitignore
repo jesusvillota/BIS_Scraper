@@ -1,8 +1,11 @@
+.DS_Store
+
 # Ignore downloaded PDFs
 /downloads/
 /tutorial/comparison/
 /tutorial/downloads/
 /tutorial/texts/
+/tutorial/OLD/
 
 # Ignore TODO file
 TODO.md
