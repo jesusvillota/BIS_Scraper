@@ -71,7 +71,7 @@ MAX_PAGE: 2                        # Maximum number of pages to scrape
 Run the scraper with the default configuration:
 
 ```bash
-python main.py
+poetry run python main.py
 ```
 
 Extract text from downloaded PDFs:
